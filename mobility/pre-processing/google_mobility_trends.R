@@ -9,7 +9,9 @@ df <- read_csv("https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.
          sub_region_1 == "Greater Manchester") %>% 
   select(-c(1:4)) %>% 
   pivot_longer(-date, names_to = "place", values_to = "percent") %>% 
-  mutate(percent = percent/100,
+  mutate(area_name = "Greater Manchester",
+         area_code = "E47000001",
+         percent = percent/100,
          place = case_when(
            place == "retail_and_recreation_percent_change_from_baseline" ~ "Retail & recreation",
            place == "grocery_and_pharmacy_percent_change_from_baseline" ~ "Grocery & pharmacy",
@@ -20,7 +22,10 @@ df <- read_csv("https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.
   )) %>% 
   group_by(place) %>% 
   mutate(label = if_else(date == max(date), percent, NA_real_)) %>% 
-  ungroup()
+  ungroup() %>% 
+  select(area_name, area_code, everything())
+
+write_csv(select(df, -label), "../google_mobility_trends.csv")
 
 ggplot(df, aes(x = date, y = percent)) +
   geom_hline(yintercept = 0, size = 0.5, colour = "#212121") +
@@ -45,5 +50,5 @@ ggplot(df, aes(x = date, y = percent)) +
     strip.text = element_text(size = 12, face = "bold")
   )
 
-ggsave("google_mobility_trends_in_GM.pdf", device = cairo_pdf, scale = 1.5, width = 6, height = 6)
+ggsave("../outputs/google_mobility_trends.pdf", device = cairo_pdf, scale = 1.5, width = 6, height = 6)
 

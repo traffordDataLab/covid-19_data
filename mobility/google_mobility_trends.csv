@@ -1,0 +1,343 @@
+area_name,area_code,date,place,percent
+Greater Manchester,E47000001,2020-02-15,Retail & recreation,-0.08
+Greater Manchester,E47000001,2020-02-15,Grocery & pharmacy,-0.07
+Greater Manchester,E47000001,2020-02-15,Parks,-0.35
+Greater Manchester,E47000001,2020-02-15,Transit stations,-0.1
+Greater Manchester,E47000001,2020-02-15,Workplaces,-0.03
+Greater Manchester,E47000001,2020-02-15,Residential,0.02
+Greater Manchester,E47000001,2020-02-16,Retail & recreation,0.01
+Greater Manchester,E47000001,2020-02-16,Grocery & pharmacy,-0.04
+Greater Manchester,E47000001,2020-02-16,Parks,-0.08
+Greater Manchester,E47000001,2020-02-16,Transit stations,-0.01
+Greater Manchester,E47000001,2020-02-16,Workplaces,-0.01
+Greater Manchester,E47000001,2020-02-16,Residential,0
+Greater Manchester,E47000001,2020-02-17,Retail & recreation,0.07
+Greater Manchester,E47000001,2020-02-17,Grocery & pharmacy,-0.02
+Greater Manchester,E47000001,2020-02-17,Parks,0.07
+Greater Manchester,E47000001,2020-02-17,Transit stations,-0.02
+Greater Manchester,E47000001,2020-02-17,Workplaces,-0.13
+Greater Manchester,E47000001,2020-02-17,Residential,0.02
+Greater Manchester,E47000001,2020-02-18,Retail & recreation,0.07
+Greater Manchester,E47000001,2020-02-18,Grocery & pharmacy,-0.02
+Greater Manchester,E47000001,2020-02-18,Parks,0.04
+Greater Manchester,E47000001,2020-02-18,Transit stations,-0.04
+Greater Manchester,E47000001,2020-02-18,Workplaces,-0.12
+Greater Manchester,E47000001,2020-02-18,Residential,0.02
+Greater Manchester,E47000001,2020-02-19,Retail & recreation,0.02
+Greater Manchester,E47000001,2020-02-19,Grocery & pharmacy,-0.05
+Greater Manchester,E47000001,2020-02-19,Parks,-0.13
+Greater Manchester,E47000001,2020-02-19,Transit stations,-0.03
+Greater Manchester,E47000001,2020-02-19,Workplaces,-0.12
+Greater Manchester,E47000001,2020-02-19,Residential,0.02
+Greater Manchester,E47000001,2020-02-20,Retail & recreation,0.03
+Greater Manchester,E47000001,2020-02-20,Grocery & pharmacy,-0.03
+Greater Manchester,E47000001,2020-02-20,Parks,-0.12
+Greater Manchester,E47000001,2020-02-20,Transit stations,-0.07
+Greater Manchester,E47000001,2020-02-20,Workplaces,-0.13
+Greater Manchester,E47000001,2020-02-20,Residential,0.03
+Greater Manchester,E47000001,2020-02-21,Retail & recreation,0.02
+Greater Manchester,E47000001,2020-02-21,Grocery & pharmacy,-0.06
+Greater Manchester,E47000001,2020-02-21,Parks,-0.13
+Greater Manchester,E47000001,2020-02-21,Transit stations,-0.05
+Greater Manchester,E47000001,2020-02-21,Workplaces,-0.14
+Greater Manchester,E47000001,2020-02-21,Residential,0.03
+Greater Manchester,E47000001,2020-02-22,Retail & recreation,-0.01
+Greater Manchester,E47000001,2020-02-22,Grocery & pharmacy,-0.04
+Greater Manchester,E47000001,2020-02-22,Parks,-0.17
+Greater Manchester,E47000001,2020-02-22,Transit stations,0
+Greater Manchester,E47000001,2020-02-22,Workplaces,-0.02
+Greater Manchester,E47000001,2020-02-22,Residential,0.01
+Greater Manchester,E47000001,2020-02-23,Retail & recreation,0.06
+Greater Manchester,E47000001,2020-02-23,Grocery & pharmacy,-0.04
+Greater Manchester,E47000001,2020-02-23,Parks,0
+Greater Manchester,E47000001,2020-02-23,Transit stations,0.06
+Greater Manchester,E47000001,2020-02-23,Workplaces,-0.02
+Greater Manchester,E47000001,2020-02-23,Residential,0
+Greater Manchester,E47000001,2020-02-24,Retail & recreation,-0.03
+Greater Manchester,E47000001,2020-02-24,Grocery & pharmacy,-0.03
+Greater Manchester,E47000001,2020-02-24,Parks,-0.1
+Greater Manchester,E47000001,2020-02-24,Transit stations,0.01
+Greater Manchester,E47000001,2020-02-24,Workplaces,-0.03
+Greater Manchester,E47000001,2020-02-24,Residential,0.02
+Greater Manchester,E47000001,2020-02-25,Retail & recreation,-0.02
+Greater Manchester,E47000001,2020-02-25,Grocery & pharmacy,0.02
+Greater Manchester,E47000001,2020-02-25,Parks,-0.11
+Greater Manchester,E47000001,2020-02-25,Transit stations,-0.01
+Greater Manchester,E47000001,2020-02-25,Workplaces,-0.01
+Greater Manchester,E47000001,2020-02-25,Residential,0.01
+Greater Manchester,E47000001,2020-02-26,Retail & recreation,-0.03
+Greater Manchester,E47000001,2020-02-26,Grocery & pharmacy,-0.04
+Greater Manchester,E47000001,2020-02-26,Parks,-0.13
+Greater Manchester,E47000001,2020-02-26,Transit stations,-0.03
+Greater Manchester,E47000001,2020-02-26,Workplaces,-0.01
+Greater Manchester,E47000001,2020-02-26,Residential,0.01
+Greater Manchester,E47000001,2020-02-27,Retail & recreation,0.08
+Greater Manchester,E47000001,2020-02-27,Grocery & pharmacy,-0.01
+Greater Manchester,E47000001,2020-02-27,Parks,0.02
+Greater Manchester,E47000001,2020-02-27,Transit stations,0.03
+Greater Manchester,E47000001,2020-02-27,Workplaces,-0.01
+Greater Manchester,E47000001,2020-02-27,Residential,0.01
+Greater Manchester,E47000001,2020-02-28,Retail & recreation,0.03
+Greater Manchester,E47000001,2020-02-28,Grocery & pharmacy,-0.03
+Greater Manchester,E47000001,2020-02-28,Parks,-0.12
+Greater Manchester,E47000001,2020-02-28,Transit stations,0.03
+Greater Manchester,E47000001,2020-02-28,Workplaces,-0.02
+Greater Manchester,E47000001,2020-02-28,Residential,0.01
+Greater Manchester,E47000001,2020-02-29,Retail & recreation,0.02
+Greater Manchester,E47000001,2020-02-29,Grocery & pharmacy,-0.01
+Greater Manchester,E47000001,2020-02-29,Parks,-0.09
+Greater Manchester,E47000001,2020-02-29,Transit stations,-0.01
+Greater Manchester,E47000001,2020-02-29,Workplaces,0
+Greater Manchester,E47000001,2020-02-29,Residential,0
+Greater Manchester,E47000001,2020-03-01,Retail & recreation,0.05
+Greater Manchester,E47000001,2020-03-01,Grocery & pharmacy,-0.01
+Greater Manchester,E47000001,2020-03-01,Parks,0.12
+Greater Manchester,E47000001,2020-03-01,Transit stations,0.05
+Greater Manchester,E47000001,2020-03-01,Workplaces,0
+Greater Manchester,E47000001,2020-03-01,Residential,-0.01
+Greater Manchester,E47000001,2020-03-02,Retail & recreation,0.01
+Greater Manchester,E47000001,2020-03-02,Grocery & pharmacy,0
+Greater Manchester,E47000001,2020-03-02,Parks,-0.03
+Greater Manchester,E47000001,2020-03-02,Transit stations,0
+Greater Manchester,E47000001,2020-03-02,Workplaces,0
+Greater Manchester,E47000001,2020-03-02,Residential,0
+Greater Manchester,E47000001,2020-03-03,Retail & recreation,0.01
+Greater Manchester,E47000001,2020-03-03,Grocery & pharmacy,0.01
+Greater Manchester,E47000001,2020-03-03,Parks,-0.06
+Greater Manchester,E47000001,2020-03-03,Transit stations,-0.02
+Greater Manchester,E47000001,2020-03-03,Workplaces,0.01
+Greater Manchester,E47000001,2020-03-03,Residential,0
+Greater Manchester,E47000001,2020-03-04,Retail & recreation,0
+Greater Manchester,E47000001,2020-03-04,Grocery & pharmacy,0.03
+Greater Manchester,E47000001,2020-03-04,Parks,0
+Greater Manchester,E47000001,2020-03-04,Transit stations,-0.03
+Greater Manchester,E47000001,2020-03-04,Workplaces,0.01
+Greater Manchester,E47000001,2020-03-04,Residential,0.01
+Greater Manchester,E47000001,2020-03-05,Retail & recreation,0.02
+Greater Manchester,E47000001,2020-03-05,Grocery & pharmacy,0.03
+Greater Manchester,E47000001,2020-03-05,Parks,0.1
+Greater Manchester,E47000001,2020-03-05,Transit stations,-0.03
+Greater Manchester,E47000001,2020-03-05,Workplaces,0.01
+Greater Manchester,E47000001,2020-03-05,Residential,0
+Greater Manchester,E47000001,2020-03-06,Retail & recreation,0.05
+Greater Manchester,E47000001,2020-03-06,Grocery & pharmacy,0.02
+Greater Manchester,E47000001,2020-03-06,Parks,0.23
+Greater Manchester,E47000001,2020-03-06,Transit stations,0.01
+Greater Manchester,E47000001,2020-03-06,Workplaces,0.01
+Greater Manchester,E47000001,2020-03-06,Residential,0
+Greater Manchester,E47000001,2020-03-07,Retail & recreation,-0.01
+Greater Manchester,E47000001,2020-03-07,Grocery & pharmacy,0
+Greater Manchester,E47000001,2020-03-07,Parks,0.01
+Greater Manchester,E47000001,2020-03-07,Transit stations,0.01
+Greater Manchester,E47000001,2020-03-07,Workplaces,0.01
+Greater Manchester,E47000001,2020-03-07,Residential,0
+Greater Manchester,E47000001,2020-03-08,Retail & recreation,0.09
+Greater Manchester,E47000001,2020-03-08,Grocery & pharmacy,0.02
+Greater Manchester,E47000001,2020-03-08,Parks,0.15
+Greater Manchester,E47000001,2020-03-08,Transit stations,0.05
+Greater Manchester,E47000001,2020-03-08,Workplaces,0.02
+Greater Manchester,E47000001,2020-03-08,Residential,-0.01
+Greater Manchester,E47000001,2020-03-09,Retail & recreation,-0.04
+Greater Manchester,E47000001,2020-03-09,Grocery & pharmacy,-0.01
+Greater Manchester,E47000001,2020-03-09,Parks,-0.13
+Greater Manchester,E47000001,2020-03-09,Transit stations,-0.04
+Greater Manchester,E47000001,2020-03-09,Workplaces,0
+Greater Manchester,E47000001,2020-03-09,Residential,0.01
+Greater Manchester,E47000001,2020-03-10,Retail & recreation,-0.02
+Greater Manchester,E47000001,2020-03-10,Grocery & pharmacy,0.03
+Greater Manchester,E47000001,2020-03-10,Parks,-0.06
+Greater Manchester,E47000001,2020-03-10,Transit stations,-0.05
+Greater Manchester,E47000001,2020-03-10,Workplaces,0
+Greater Manchester,E47000001,2020-03-10,Residential,0.01
+Greater Manchester,E47000001,2020-03-11,Retail & recreation,-0.04
+Greater Manchester,E47000001,2020-03-11,Grocery & pharmacy,0.02
+Greater Manchester,E47000001,2020-03-11,Parks,-0.07
+Greater Manchester,E47000001,2020-03-11,Transit stations,-0.07
+Greater Manchester,E47000001,2020-03-11,Workplaces,0
+Greater Manchester,E47000001,2020-03-11,Residential,0.01
+Greater Manchester,E47000001,2020-03-12,Retail & recreation,-0.01
+Greater Manchester,E47000001,2020-03-12,Grocery & pharmacy,0.08
+Greater Manchester,E47000001,2020-03-12,Parks,-0.03
+Greater Manchester,E47000001,2020-03-12,Transit stations,-0.09
+Greater Manchester,E47000001,2020-03-12,Workplaces,-0.01
+Greater Manchester,E47000001,2020-03-12,Residential,0.02
+Greater Manchester,E47000001,2020-03-13,Retail & recreation,0.01
+Greater Manchester,E47000001,2020-03-13,Grocery & pharmacy,0.09
+Greater Manchester,E47000001,2020-03-13,Parks,0.07
+Greater Manchester,E47000001,2020-03-13,Transit stations,-0.1
+Greater Manchester,E47000001,2020-03-13,Workplaces,-0.03
+Greater Manchester,E47000001,2020-03-13,Residential,0.02
+Greater Manchester,E47000001,2020-03-14,Retail & recreation,-0.09
+Greater Manchester,E47000001,2020-03-14,Grocery & pharmacy,0.08
+Greater Manchester,E47000001,2020-03-14,Parks,-0.14
+Greater Manchester,E47000001,2020-03-14,Transit stations,-0.15
+Greater Manchester,E47000001,2020-03-14,Workplaces,-0.02
+Greater Manchester,E47000001,2020-03-14,Residential,0.02
+Greater Manchester,E47000001,2020-03-15,Retail & recreation,-0.08
+Greater Manchester,E47000001,2020-03-15,Grocery & pharmacy,0.08
+Greater Manchester,E47000001,2020-03-15,Parks,0
+Greater Manchester,E47000001,2020-03-15,Transit stations,-0.16
+Greater Manchester,E47000001,2020-03-15,Workplaces,-0.03
+Greater Manchester,E47000001,2020-03-15,Residential,0.01
+Greater Manchester,E47000001,2020-03-16,Retail & recreation,-0.04
+Greater Manchester,E47000001,2020-03-16,Grocery & pharmacy,0.18
+Greater Manchester,E47000001,2020-03-16,Parks,0.08
+Greater Manchester,E47000001,2020-03-16,Transit stations,-0.19
+Greater Manchester,E47000001,2020-03-16,Workplaces,-0.07
+Greater Manchester,E47000001,2020-03-16,Residential,0.03
+Greater Manchester,E47000001,2020-03-17,Retail & recreation,-0.11
+Greater Manchester,E47000001,2020-03-17,Grocery & pharmacy,0.21
+Greater Manchester,E47000001,2020-03-17,Parks,-0.02
+Greater Manchester,E47000001,2020-03-17,Transit stations,-0.28
+Greater Manchester,E47000001,2020-03-17,Workplaces,-0.13
+Greater Manchester,E47000001,2020-03-17,Residential,0.06
+Greater Manchester,E47000001,2020-03-18,Retail & recreation,-0.21
+Greater Manchester,E47000001,2020-03-18,Grocery & pharmacy,0.21
+Greater Manchester,E47000001,2020-03-18,Parks,-0.29
+Greater Manchester,E47000001,2020-03-18,Transit stations,-0.38
+Greater Manchester,E47000001,2020-03-18,Workplaces,-0.22
+Greater Manchester,E47000001,2020-03-18,Residential,0.1
+Greater Manchester,E47000001,2020-03-19,Retail & recreation,-0.18
+Greater Manchester,E47000001,2020-03-19,Grocery & pharmacy,0.25
+Greater Manchester,E47000001,2020-03-19,Parks,0.02
+Greater Manchester,E47000001,2020-03-19,Transit stations,-0.41
+Greater Manchester,E47000001,2020-03-19,Workplaces,-0.26
+Greater Manchester,E47000001,2020-03-19,Residential,0.11
+Greater Manchester,E47000001,2020-03-20,Retail & recreation,-0.25
+Greater Manchester,E47000001,2020-03-20,Grocery & pharmacy,0.09
+Greater Manchester,E47000001,2020-03-20,Parks,0.06
+Greater Manchester,E47000001,2020-03-20,Transit stations,-0.44
+Greater Manchester,E47000001,2020-03-20,Workplaces,-0.28
+Greater Manchester,E47000001,2020-03-20,Residential,0.12
+Greater Manchester,E47000001,2020-03-21,Retail & recreation,-0.49
+Greater Manchester,E47000001,2020-03-21,Grocery & pharmacy,0.01
+Greater Manchester,E47000001,2020-03-21,Parks,-0.18
+Greater Manchester,E47000001,2020-03-21,Transit stations,-0.53
+Greater Manchester,E47000001,2020-03-21,Workplaces,-0.25
+Greater Manchester,E47000001,2020-03-21,Residential,0.1
+Greater Manchester,E47000001,2020-03-22,Retail & recreation,-0.55
+Greater Manchester,E47000001,2020-03-22,Grocery & pharmacy,-0.13
+Greater Manchester,E47000001,2020-03-22,Parks,0.21
+Greater Manchester,E47000001,2020-03-22,Transit stations,-0.53
+Greater Manchester,E47000001,2020-03-22,Workplaces,-0.29
+Greater Manchester,E47000001,2020-03-22,Residential,0.08
+Greater Manchester,E47000001,2020-03-23,Retail & recreation,-0.44
+Greater Manchester,E47000001,2020-03-23,Grocery & pharmacy,-0.09
+Greater Manchester,E47000001,2020-03-23,Parks,-0.1
+Greater Manchester,E47000001,2020-03-23,Transit stations,-0.58
+Greater Manchester,E47000001,2020-03-23,Workplaces,-0.44
+Greater Manchester,E47000001,2020-03-23,Residential,0.17
+Greater Manchester,E47000001,2020-03-24,Retail & recreation,-0.69
+Greater Manchester,E47000001,2020-03-24,Grocery & pharmacy,-0.24
+Greater Manchester,E47000001,2020-03-24,Parks,-0.2
+Greater Manchester,E47000001,2020-03-24,Transit stations,-0.68
+Greater Manchester,E47000001,2020-03-24,Workplaces,-0.57
+Greater Manchester,E47000001,2020-03-24,Residential,0.23
+Greater Manchester,E47000001,2020-03-25,Retail & recreation,-0.73
+Greater Manchester,E47000001,2020-03-25,Grocery & pharmacy,-0.27
+Greater Manchester,E47000001,2020-03-25,Parks,-0.15
+Greater Manchester,E47000001,2020-03-25,Transit stations,-0.72
+Greater Manchester,E47000001,2020-03-25,Workplaces,-0.62
+Greater Manchester,E47000001,2020-03-25,Residential,0.26
+Greater Manchester,E47000001,2020-03-26,Retail & recreation,-0.73
+Greater Manchester,E47000001,2020-03-26,Grocery & pharmacy,-0.28
+Greater Manchester,E47000001,2020-03-26,Parks,-0.12
+Greater Manchester,E47000001,2020-03-26,Transit stations,-0.74
+Greater Manchester,E47000001,2020-03-26,Workplaces,-0.65
+Greater Manchester,E47000001,2020-03-26,Residential,0.27
+Greater Manchester,E47000001,2020-03-27,Retail & recreation,-0.74
+Greater Manchester,E47000001,2020-03-27,Grocery & pharmacy,-0.29
+Greater Manchester,E47000001,2020-03-27,Parks,-0.21
+Greater Manchester,E47000001,2020-03-27,Transit stations,-0.75
+Greater Manchester,E47000001,2020-03-27,Workplaces,-0.65
+Greater Manchester,E47000001,2020-03-27,Residential,0.28
+Greater Manchester,E47000001,2020-03-28,Retail & recreation,-0.82
+Greater Manchester,E47000001,2020-03-28,Grocery & pharmacy,-0.39
+Greater Manchester,E47000001,2020-03-28,Parks,-0.56
+Greater Manchester,E47000001,2020-03-28,Transit stations,-0.79
+Greater Manchester,E47000001,2020-03-28,Workplaces,-0.56
+Greater Manchester,E47000001,2020-03-28,Residential,0.2
+Greater Manchester,E47000001,2020-03-29,Retail & recreation,-0.84
+Greater Manchester,E47000001,2020-03-29,Grocery & pharmacy,-0.46
+Greater Manchester,E47000001,2020-03-29,Parks,-0.44
+Greater Manchester,E47000001,2020-03-29,Transit stations,-0.8
+Greater Manchester,E47000001,2020-03-29,Workplaces,-0.54
+Greater Manchester,E47000001,2020-03-29,Residential,0.16
+Greater Manchester,E47000001,2020-03-30,Retail & recreation,-0.73
+Greater Manchester,E47000001,2020-03-30,Grocery & pharmacy,-0.34
+Greater Manchester,E47000001,2020-03-30,Parks,-0.34
+Greater Manchester,E47000001,2020-03-30,Transit stations,-0.77
+Greater Manchester,E47000001,2020-03-30,Workplaces,-0.68
+Greater Manchester,E47000001,2020-03-30,Residential,0.27
+Greater Manchester,E47000001,2020-03-31,Retail & recreation,-0.73
+Greater Manchester,E47000001,2020-03-31,Grocery & pharmacy,-0.31
+Greater Manchester,E47000001,2020-03-31,Parks,-0.24
+Greater Manchester,E47000001,2020-03-31,Transit stations,-0.76
+Greater Manchester,E47000001,2020-03-31,Workplaces,-0.69
+Greater Manchester,E47000001,2020-03-31,Residential,0.27
+Greater Manchester,E47000001,2020-04-01,Retail & recreation,-0.75
+Greater Manchester,E47000001,2020-04-01,Grocery & pharmacy,-0.33
+Greater Manchester,E47000001,2020-04-01,Parks,-0.36
+Greater Manchester,E47000001,2020-04-01,Transit stations,-0.78
+Greater Manchester,E47000001,2020-04-01,Workplaces,-0.68
+Greater Manchester,E47000001,2020-04-01,Residential,0.28
+Greater Manchester,E47000001,2020-04-02,Retail & recreation,-0.75
+Greater Manchester,E47000001,2020-04-02,Grocery & pharmacy,-0.33
+Greater Manchester,E47000001,2020-04-02,Parks,-0.36
+Greater Manchester,E47000001,2020-04-02,Transit stations,-0.79
+Greater Manchester,E47000001,2020-04-02,Workplaces,-0.69
+Greater Manchester,E47000001,2020-04-02,Residential,0.28
+Greater Manchester,E47000001,2020-04-03,Retail & recreation,-0.74
+Greater Manchester,E47000001,2020-04-03,Grocery & pharmacy,-0.3
+Greater Manchester,E47000001,2020-04-03,Parks,-0.23
+Greater Manchester,E47000001,2020-04-03,Transit stations,-0.77
+Greater Manchester,E47000001,2020-04-03,Workplaces,-0.68
+Greater Manchester,E47000001,2020-04-03,Residential,0.29
+Greater Manchester,E47000001,2020-04-04,Retail & recreation,-0.8
+Greater Manchester,E47000001,2020-04-04,Grocery & pharmacy,-0.36
+Greater Manchester,E47000001,2020-04-04,Parks,-0.41
+Greater Manchester,E47000001,2020-04-04,Transit stations,-0.78
+Greater Manchester,E47000001,2020-04-04,Workplaces,-0.57
+Greater Manchester,E47000001,2020-04-04,Residential,0.19
+Greater Manchester,E47000001,2020-04-05,Retail & recreation,-0.81
+Greater Manchester,E47000001,2020-04-05,Grocery & pharmacy,-0.41
+Greater Manchester,E47000001,2020-04-05,Parks,-0.22
+Greater Manchester,E47000001,2020-04-05,Transit stations,-0.78
+Greater Manchester,E47000001,2020-04-05,Workplaces,-0.54
+Greater Manchester,E47000001,2020-04-05,Residential,0.15
+Greater Manchester,E47000001,2020-04-06,Retail & recreation,-0.71
+Greater Manchester,E47000001,2020-04-06,Grocery & pharmacy,-0.31
+Greater Manchester,E47000001,2020-04-06,Parks,-0.2
+Greater Manchester,E47000001,2020-04-06,Transit stations,-0.76
+Greater Manchester,E47000001,2020-04-06,Workplaces,-0.68
+Greater Manchester,E47000001,2020-04-06,Residential,0.26
+Greater Manchester,E47000001,2020-04-07,Retail & recreation,-0.71
+Greater Manchester,E47000001,2020-04-07,Grocery & pharmacy,-0.28
+Greater Manchester,E47000001,2020-04-07,Parks,0.01
+Greater Manchester,E47000001,2020-04-07,Transit stations,-0.74
+Greater Manchester,E47000001,2020-04-07,Workplaces,-0.69
+Greater Manchester,E47000001,2020-04-07,Residential,0.26
+Greater Manchester,E47000001,2020-04-08,Retail & recreation,-0.72
+Greater Manchester,E47000001,2020-04-08,Grocery & pharmacy,-0.27
+Greater Manchester,E47000001,2020-04-08,Parks,-0.13
+Greater Manchester,E47000001,2020-04-08,Transit stations,-0.74
+Greater Manchester,E47000001,2020-04-08,Workplaces,-0.69
+Greater Manchester,E47000001,2020-04-08,Residential,0.27
+Greater Manchester,E47000001,2020-04-09,Retail & recreation,-0.69
+Greater Manchester,E47000001,2020-04-09,Grocery & pharmacy,-0.21
+Greater Manchester,E47000001,2020-04-09,Parks,-0.19
+Greater Manchester,E47000001,2020-04-09,Transit stations,-0.74
+Greater Manchester,E47000001,2020-04-09,Workplaces,-0.69
+Greater Manchester,E47000001,2020-04-09,Residential,0.27
+Greater Manchester,E47000001,2020-04-10,Retail & recreation,-0.77
+Greater Manchester,E47000001,2020-04-10,Grocery & pharmacy,-0.36
+Greater Manchester,E47000001,2020-04-10,Parks,-0.15
+Greater Manchester,E47000001,2020-04-10,Transit stations,-0.8
+Greater Manchester,E47000001,2020-04-10,Workplaces,-0.81
+Greater Manchester,E47000001,2020-04-10,Residential,0.32
+Greater Manchester,E47000001,2020-04-11,Retail & recreation,-0.79
+Greater Manchester,E47000001,2020-04-11,Grocery & pharmacy,-0.31
+Greater Manchester,E47000001,2020-04-11,Parks,-0.32
+Greater Manchester,E47000001,2020-04-11,Transit stations,-0.75
+Greater Manchester,E47000001,2020-04-11,Workplaces,-0.56
+Greater Manchester,E47000001,2020-04-11,Residential,0.19

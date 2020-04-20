@@ -4,7 +4,7 @@
 
 library(tidyverse) ; library(ggsci) ; library(scales) ; library(ggrepel)
 
-df <- read_csv("applemobilitytrends-2020-04-15.csv") %>% 
+df <- read_csv("applemobilitytrends-2020-04-18.csv") %>% 
   filter(region == "Manchester") %>% 
   select(-c(1:2)) %>% 
   pivot_longer(-transportation_type, names_to = "date", values_to = "percent") %>% 
@@ -12,9 +12,12 @@ df <- read_csv("applemobilitytrends-2020-04-15.csv") %>%
          transportation_type = str_to_title(transportation_type),
          percent = percent/100) %>% 
   group_by(transportation_type) %>% 
-  mutate(label = if_else(date == max(date), percent, NA_real_)) %>% 
+  mutate(area_name = "Manchester",
+         label = if_else(date == max(date), percent, NA_real_)) %>% 
   ungroup() %>% 
-  select(date, everything())
+  select(date, area_name, everything())
+
+write_csv(select(df, -label), "../apple_mobility_trends.csv")
 
 ggplot(df, aes(x = date, y = percent, colour = transportation_type)) +
   geom_hline(yintercept = 0, size = 0.5, colour = "#212121") +
@@ -22,7 +25,6 @@ ggplot(df, aes(x = date, y = percent, colour = transportation_type)) +
   geom_label_repel(aes(label = percent(label, accuracy = 1)), nudge_x = 1, na.rm = TRUE, show.legend = FALSE) +
   scale_color_startrek() +
   scale_y_continuous(expand = c(0.005, 0.005), labels = percent) +
-  #facet_wrap(~transportation_type) +
   labs(x = NULL, y = NULL,
        title = "Mobility trends in Manchester",
        subtitle = paste("Change in routing requests since", format(min(df$date), '%d %B %Y')),
@@ -42,4 +44,4 @@ ggplot(df, aes(x = date, y = percent, colour = transportation_type)) +
     legend.title = element_blank()
   )
 
-ggsave("apple_mobility_trends_in_Manchester.pdf", device = cairo_pdf, scale = 1.5, width = 6, height = 6)
+ggsave("../outputs/apple_mobility_trends.pdf", device = cairo_pdf, scale = 1.5, width = 6, height = 6)
