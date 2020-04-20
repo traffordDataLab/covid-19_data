@@ -16,4 +16,4 @@ read_csv("http://www.nomisweb.co.uk/api/v01/dataset/NM_2010_1.data.csv?geography
   mutate(n = rowSums(.[3:23])) %>% 
   select(area_code, area_name, n) %>% 
   arrange(area_code) %>% 
-  write_csv("../data/over_70.csv")
+  write_csv("../over_70.csv")
