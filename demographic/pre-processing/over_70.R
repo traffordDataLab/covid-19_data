@@ -14,6 +14,6 @@ read_csv("http://www.nomisweb.co.uk/api/v01/dataset/NM_2010_1.data.csv?geography
   pivot_wider(names_from = age, values_from = n) %>%
   mutate(n = rowSums(.[4:7]),
          percent = n/`All Ages`) %>% 
-  select(area_code, area_name, n, percent) %>% 
+  select(area_code, area_name, total_population = `All Ages`, n, percent) %>% 
   arrange(area_code) %>% 
   write_csv("../over_70.csv")
