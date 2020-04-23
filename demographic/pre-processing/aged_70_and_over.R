@@ -16,4 +16,4 @@ read_csv("http://www.nomisweb.co.uk/api/v01/dataset/NM_2010_1.data.csv?geography
          percent = n/`All Ages`) %>% 
   select(area_code, area_name, total_population = `All Ages`, n, percent) %>% 
   arrange(area_code) %>% 
-  write_csv("../over_70.csv")
+  write_csv("../aged_70_and_over.csv")
