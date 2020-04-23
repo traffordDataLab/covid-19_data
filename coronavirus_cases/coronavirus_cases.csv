@@ -1,41 +1,42 @@
-area_name,area_code,date,new_cases,cum_cases
-Trafford,E08000009,2020-03-02,3,3
-Trafford,E08000009,2020-03-04,1,4
-Trafford,E08000009,2020-03-10,3,7
-Trafford,E08000009,2020-03-12,3,10
-Trafford,E08000009,2020-03-13,2,12
-Trafford,E08000009,2020-03-14,1,13
-Trafford,E08000009,2020-03-15,1,14
-Trafford,E08000009,2020-03-16,1,15
-Trafford,E08000009,2020-03-18,6,21
-Trafford,E08000009,2020-03-19,4,25
-Trafford,E08000009,2020-03-20,7,32
-Trafford,E08000009,2020-03-21,4,36
-Trafford,E08000009,2020-03-22,9,45
-Trafford,E08000009,2020-03-23,5,50
-Trafford,E08000009,2020-03-24,10,60
-Trafford,E08000009,2020-03-25,10,70
-Trafford,E08000009,2020-03-26,15,85
-Trafford,E08000009,2020-03-27,8,93
-Trafford,E08000009,2020-03-28,13,106
-Trafford,E08000009,2020-03-29,8,114
-Trafford,E08000009,2020-03-30,19,133
-Trafford,E08000009,2020-03-31,13,146
-Trafford,E08000009,2020-04-01,28,174
-Trafford,E08000009,2020-04-02,27,201
-Trafford,E08000009,2020-04-03,26,227
-Trafford,E08000009,2020-04-04,16,243
-Trafford,E08000009,2020-04-05,19,262
-Trafford,E08000009,2020-04-06,22,284
-Trafford,E08000009,2020-04-07,19,303
-Trafford,E08000009,2020-04-08,30,333
-Trafford,E08000009,2020-04-09,16,349
-Trafford,E08000009,2020-04-10,22,371
-Trafford,E08000009,2020-04-11,14,385
-Trafford,E08000009,2020-04-12,10,395
-Trafford,E08000009,2020-04-13,9,404
-Trafford,E08000009,2020-04-14,21,425
-Trafford,E08000009,2020-04-15,8,433
-Trafford,E08000009,2020-04-16,17,450
-Trafford,E08000009,2020-04-17,3,453
-Trafford,E08000009,2020-04-18,1,454
+Date,AreaName,AreaCode,AreaType,NewCases,CumCases
+2020-04-19,Trafford,E08000009,Upper tier local authority,0,464
+2020-04-18,Trafford,E08000009,Upper tier local authority,5,464
+2020-04-17,Trafford,E08000009,Upper tier local authority,9,459
+2020-04-16,Trafford,E08000009,Upper tier local authority,17,450
+2020-04-15,Trafford,E08000009,Upper tier local authority,8,433
+2020-04-14,Trafford,E08000009,Upper tier local authority,21,425
+2020-04-13,Trafford,E08000009,Upper tier local authority,9,404
+2020-04-12,Trafford,E08000009,Upper tier local authority,10,395
+2020-04-11,Trafford,E08000009,Upper tier local authority,14,385
+2020-04-10,Trafford,E08000009,Upper tier local authority,22,371
+2020-04-09,Trafford,E08000009,Upper tier local authority,16,349
+2020-04-08,Trafford,E08000009,Upper tier local authority,30,333
+2020-04-07,Trafford,E08000009,Upper tier local authority,19,303
+2020-04-06,Trafford,E08000009,Upper tier local authority,22,284
+2020-04-05,Trafford,E08000009,Upper tier local authority,19,262
+2020-04-04,Trafford,E08000009,Upper tier local authority,16,243
+2020-04-03,Trafford,E08000009,Upper tier local authority,26,227
+2020-04-02,Trafford,E08000009,Upper tier local authority,27,201
+2020-04-01,Trafford,E08000009,Upper tier local authority,28,174
+2020-03-31,Trafford,E08000009,Upper tier local authority,13,146
+2020-03-30,Trafford,E08000009,Upper tier local authority,19,133
+2020-03-29,Trafford,E08000009,Upper tier local authority,8,114
+2020-03-28,Trafford,E08000009,Upper tier local authority,13,106
+2020-03-27,Trafford,E08000009,Upper tier local authority,8,93
+2020-03-26,Trafford,E08000009,Upper tier local authority,15,85
+2020-03-25,Trafford,E08000009,Upper tier local authority,10,70
+2020-03-24,Trafford,E08000009,Upper tier local authority,10,60
+2020-03-23,Trafford,E08000009,Upper tier local authority,5,50
+2020-03-22,Trafford,E08000009,Upper tier local authority,9,45
+2020-03-21,Trafford,E08000009,Upper tier local authority,4,36
+2020-03-20,Trafford,E08000009,Upper tier local authority,7,32
+2020-03-19,Trafford,E08000009,Upper tier local authority,4,25
+2020-03-18,Trafford,E08000009,Upper tier local authority,5,21
+2020-03-16,Trafford,E08000009,Upper tier local authority,1,16
+2020-03-15,Trafford,E08000009,Upper tier local authority,2,15
+2020-03-14,Trafford,E08000009,Upper tier local authority,1,13
+2020-03-13,Trafford,E08000009,Upper tier local authority,2,12
+2020-03-12,Trafford,E08000009,Upper tier local authority,3,10
+2020-03-10,Trafford,E08000009,Upper tier local authority,3,7
+2020-03-04,Trafford,E08000009,Upper tier local authority,1,4
+2020-03-02,Trafford,E08000009,Upper tier local authority,3,3

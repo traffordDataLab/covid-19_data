@@ -15,7 +15,7 @@ df <- read_csv("applemobilitytrends-2020-04-18.csv") %>%
   mutate(area_name = "Manchester",
          label = if_else(date == max(date), percent, NA_real_)) %>% 
   ungroup() %>% 
-  select(date, area_name, everything())
+  select(area_name, date, everything())
 
 write_csv(select(df, -label), "../apple_mobility_trends.csv")
 
