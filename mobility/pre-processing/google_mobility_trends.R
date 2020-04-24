@@ -2,7 +2,7 @@
 # Source: Google COVID-19 Community Mobility Trends
 # URL: https://www.google.com/covid19/mobility/
 
-library(tidyverse) ; library(scales) ; library(ggrepel)
+library(tidyverse) ; library(scales) ; library(ggsci) ; library(ggrepel)
 
 df <- read_csv("https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv") %>% 
   filter(country_region == "United Kingdom",
@@ -25,21 +25,24 @@ df <- read_csv("https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.
   ungroup() %>% 
   select(area_name, area_code, everything())
 
-write_csv(select(df, -label), "../google_mobility_trends.csv")
+# write_csv(select(df, -label), "../google_mobility_trends.csv")
 
 ggplot(df, aes(x = date, y = percent)) +
   geom_hline(yintercept = 0, size = 0.5, colour = "#212121") +
-  geom_line(size = 0.6, colour = "#90BB39") +
-  geom_label_repel(aes(label = percent(label, accuracy = 1)), nudge_x = 1, na.rm = TRUE) +
-  scale_y_continuous(labels = percent) +
+  geom_col(aes(fill = place)) +
+  geom_vline(aes(xintercept = as.Date("2020-03-23")), colour = "#212121", linetype = "dashed") +
+  geom_label_repel(aes(label = percent(label, accuracy = 1)), na.rm = TRUE) +
+  scale_fill_uchicago() +
+  scale_y_continuous(expand = c(0.005, 0.005), limits = c(-1,0.5), labels = percent) +
   facet_wrap(~place, ncol = 2) +
   labs(x = NULL, y = NULL,
-       title = "Mobility trends in Greater Manchester",
-       subtitle = paste(format(min(df$date), '%d %B'), "to", format(max(df$date), '%d %B %Y')),
+       title = "Mobility trends in Greater Manchester's public places",
+       subtitle = paste("Percentage change compared with base period,", format(min(df$date), '%d %B'), "to", format(max(df$date), '%d %B %Y')),
        caption = "Source: Google COVID-19 Community Mobility Reports") +
   theme_minimal() +
   theme(
     plot.margin = unit(rep(0.5, 4), "cm"),
+    panel.spacing = unit(2, "lines"),
     panel.grid.major.x = element_blank(),
     panel.grid.minor = element_blank(),
     plot.title.position = "plot",
@@ -48,7 +51,9 @@ ggplot(df, aes(x = date, y = percent)) +
     plot.subtitle = element_text(margin = margin(b = 25)), 
     plot.caption = element_text(size = 10, color = "grey50", margin = margin(t = 20)),
     strip.text = element_text(size = 12, face = "bold")
-  )
+  ) +
+  guides(fill = FALSE)
 
+ggsave("../outputs/google_mobility_trends.png", scale = 1.5, width = 6, height = 6, dpi = 300)
 ggsave("../outputs/google_mobility_trends.pdf", device = cairo_pdf, scale = 1.5, width = 6, height = 6)
 
