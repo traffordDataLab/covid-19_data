@@ -1,0 +1,57 @@
+---
+title: "Residents aged 70 and over"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+library(tidyverse) ; library(sf) ; library(scales) ; library(htmltools) ; library(classInt) ; library(leaflet) ; library(leaflet.extras) ; library(htmlwidgets)
+
+aged_70_and_over <- read_csv("https://github.com/traffordDataLab/covid-19_data/raw/master/demographic/aged_70_and_over.csv") %>% 
+  mutate(percent = round(percent*100,0)) 
+
+lsoa <- st_read("https://github.com/traffordDataLab/spatial_data/raw/master/lsoa/2011/trafford_lsoa_generalised.geojson") %>% 
+  select(-area_name) %>% 
+  st_make_valid()
+
+buildings <- st_read("https://www.traffordDataLab.io/open_data/buildings/trafford_buildings.geojson") %>% 
+  select(-area_code, -area_name) %>% 
+  st_intersection(lsoa) %>% 
+  group_by(area_code) %>% 
+  summarise(geometry = st_union(geometry)) %>% 
+  st_transform(27700) %>% 
+  st_simplify(preserveTopology = TRUE, dTolerance = 10) %>% 
+  st_transform(4326) %>% 
+  left_join(., aged_70_and_over, by = "area_code") 
+
+lsoa <- left_join(lsoa, aged_70_and_over, by = "area_code") %>% 
+  mutate(popup = str_c("<strong>", area_name, "</strong><br/>", percent, "% (", n, " residents)") %>% map(HTML))
+
+breaks <- classIntervals(buildings$percent, n = 5, style = "jenks")$brks
+pal <- colorBin(palette = "YlGnBu", domain = NULL, bins = breaks, na.color = "#FFFFFF")
+
+wards <- st_read("https://github.com/traffordDataLab/spatial_data/raw/master/ward/2017/trafford_ward_generalised.geojson")
+```
+
+The estimated number of Trafford residents aged 70 and over in mid-2018 was `r comma(sum(aged_70_and_over$n))`. This is equivalent to `r paste0(round((sum(aged_70_and_over$n)/sum(aged_70_and_over$total_population))*100,1),"%")` of the total resident population.
+
+```{r }
+leaflet(data = buildings) %>%
+  setView(-2.35533522781156, 53.419025498197, zoom = 12) %>% 
+  addTiles(urlTemplate = "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", attribution = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a> <br/><a href="https://www.ons.gov.uk/methodology/geography/licences">Contains OS data © Crown copyright and database right (2020)</a> | Source: <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualsmallareapopulationestimates/mid2018" target="_blank">ONS</a>') %>%
+  addPolygons(data = lsoa, fillColor = ~pal(percent), fillOpacity = 0.2, stroke = FALSE) %>% 
+  addPolygons(fillColor = "transparent", weight = 0.7, opacity = 1, color = ~pal(percent)) %>% 
+  addPolygons(data = lsoa, fillColor = "transparent", stroke = TRUE, weight = 1, color = "transparent", opacity = 1, 
+              label = ~popup, labelOptions = labelOptions(style = list("font-weight" = "normal", padding = "3px 8px"), textsize = "15px", direction = "auto"), 
+              highlight = highlightOptions(color = "#FFA500", weight = 3, bringToFront = TRUE)) %>% 
+  addPolylines(data = wards, stroke = TRUE, weight = 1, color = "#FFFFFF", opacity = 1, group = "Wards") %>% 
+  addLabelOnlyMarkers(data = wards, lng = ~lon, lat = ~lat, label = ~as.character(area_name), labelOptions = labelOptions(noHide = T, textOnly = T, direction = "auto", style = list("color" = "white", "text-shadow" = "-1px -1px 10px #757575, 1px -1px 10px #757575, 1px 1px 10px #757575, -1px 1px 10px #757575")), group = "Wards") %>%
+  addLegend(pal = pal, values = ~percent, opacity = 0.7, title = "% of residents", labFormat = labelFormat(suffix = "%"), position = "bottomright") %>%
+  addLayersControl(overlayGroups = "Wards", position = "bottomleft", options = layersControlOptions(collapsed = FALSE)) %>% hideGroup("Wards") %>%
+  addControl(paste0("<strong>Percentage of residents aged 70 and over</strong>"), position = "topright") %>% 
+  addFullscreenControl() %>% 
+  onRender(
+    "function(el, t) {var myMap = this;myMap._container.style['background'] = '#ffffff';}",
+    paste0("function(el, x) {$('head').append(","\'<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\'",");}"))
+```
