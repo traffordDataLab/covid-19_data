@@ -51,7 +51,5 @@ leaflet(data = buildings) %>%
   addLayersControl(overlayGroups = "Wards", position = "bottomleft", options = layersControlOptions(collapsed = FALSE)) %>% hideGroup("Wards") %>%
   addControl(paste0("<strong>Percentage of residents aged 70 and over</strong>"), position = "topright") %>% 
   addFullscreenControl() %>% 
-  onRender(
-    "function(el, t) {var myMap = this;myMap._container.style['background'] = '#ffffff';}",
-    paste0("function(el, x) {$('head').append(","\'<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\'",");}"))
+  onRender(paste0("function(el, x) {$('head').append(","\'<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\'",");}"))
 ```
