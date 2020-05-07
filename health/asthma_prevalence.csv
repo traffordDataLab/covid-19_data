@@ -1,0 +1,29 @@
+area_code,area_name,indicator,period,measure,unit,value
+E02001259,Old Trafford,Asthma prevalence,2018,percentage,persons,6.6
+E02001260,Trafford Park West & Kingsway Park,Asthma prevalence,2018,percentage,persons,7.5
+E02001261,Gorse Hill,Asthma prevalence,2018,percentage,persons,7.2
+E02001262,Firswood,Asthma prevalence,2018,percentage,persons,7.1
+E02001263,Davyhulme,Asthma prevalence,2018,percentage,persons,7.85
+E02001264,Trafford Park East & Sevenways,Asthma prevalence,2018,percentage,persons,7.11
+E02001265,Flixton & Moorside,Asthma prevalence,2018,percentage,persons,8.22
+E02001266,Lostock & Stretford Meadows,Asthma prevalence,2018,percentage,persons,7.15
+E02001267,Urmston East,Asthma prevalence,2018,percentage,persons,7.93
+E02001268,Urmston West,Asthma prevalence,2018,percentage,persons,8.03
+E02001269,Stretford East,Asthma prevalence,2018,percentage,persons,7.11
+E02001270,Sale North,Asthma prevalence,2018,percentage,persons,7.28
+E02001271,Ashton upon Mersey North,Asthma prevalence,2018,percentage,persons,6.83
+E02001272,Sale East,Asthma prevalence,2018,percentage,persons,7.19
+E02001273,Sale Central,Asthma prevalence,2018,percentage,persons,7.28
+E02001274,Ashton upon Mersey South,Asthma prevalence,2018,percentage,persons,7.24
+E02001275,Partington,Asthma prevalence,2018,percentage,persons,8.96
+E02001276,Sale Moor,Asthma prevalence,2018,percentage,persons,6.86
+E02001277,Broadheath & Firsway,Asthma prevalence,2018,percentage,persons,6.93
+E02001278,West Timperley,Asthma prevalence,2018,percentage,persons,7.02
+E02001279,Timperley North,Asthma prevalence,2018,percentage,persons,6.91
+E02001280,Timperley East,Asthma prevalence,2018,percentage,persons,6.83
+E02001281,Timperley South,Asthma prevalence,2018,percentage,persons,6.67
+E02001282,Altrincham East,Asthma prevalence,2018,percentage,persons,5.93
+E02001283,"Altrincham West, Dunham & Warburton",Asthma prevalence,2018,percentage,persons,5.76
+E02001284,Hale,Asthma prevalence,2018,percentage,persons,5.64
+E02001285,Bowdon,Asthma prevalence,2018,percentage,persons,5.69
+E02001286,Hale Barns,Asthma prevalence,2018,percentage,persons,5.43

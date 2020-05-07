@@ -1,0 +1,29 @@
+area_code,area_name,indicator,period,measure,unit,value
+E02001259,Old Trafford,Cardiovascular Disease prevalence,2018,percentage,persons,1.03
+E02001260,Trafford Park West & Kingsway Park,Cardiovascular Disease prevalence,2018,percentage,persons,1.5
+E02001261,Gorse Hill,Cardiovascular Disease prevalence,2018,percentage,persons,1.21
+E02001262,Firswood,Cardiovascular Disease prevalence,2018,percentage,persons,0.98
+E02001263,Davyhulme,Cardiovascular Disease prevalence,2018,percentage,persons,1.47
+E02001264,Trafford Park East & Sevenways,Cardiovascular Disease prevalence,2018,percentage,persons,1.2
+E02001265,Flixton & Moorside,Cardiovascular Disease prevalence,2018,percentage,persons,1.43
+E02001266,Lostock & Stretford Meadows,Cardiovascular Disease prevalence,2018,percentage,persons,1.23
+E02001267,Urmston East,Cardiovascular Disease prevalence,2018,percentage,persons,1.39
+E02001268,Urmston West,Cardiovascular Disease prevalence,2018,percentage,persons,1.4
+E02001269,Stretford East,Cardiovascular Disease prevalence,2018,percentage,persons,1.17
+E02001270,Sale North,Cardiovascular Disease prevalence,2018,percentage,persons,1.33
+E02001271,Ashton upon Mersey North,Cardiovascular Disease prevalence,2018,percentage,persons,1.73
+E02001272,Sale East,Cardiovascular Disease prevalence,2018,percentage,persons,1.2
+E02001273,Sale Central,Cardiovascular Disease prevalence,2018,percentage,persons,1.36
+E02001274,Ashton upon Mersey South,Cardiovascular Disease prevalence,2018,percentage,persons,1.82
+E02001275,Partington,Cardiovascular Disease prevalence,2018,percentage,persons,1.69
+E02001276,Sale Moor,Cardiovascular Disease prevalence,2018,percentage,persons,1.26
+E02001277,Broadheath & Firsway,Cardiovascular Disease prevalence,2018,percentage,persons,1.69
+E02001278,West Timperley,Cardiovascular Disease prevalence,2018,percentage,persons,1.86
+E02001279,Timperley North,Cardiovascular Disease prevalence,2018,percentage,persons,1.85
+E02001280,Timperley East,Cardiovascular Disease prevalence,2018,percentage,persons,3.36
+E02001281,Timperley South,Cardiovascular Disease prevalence,2018,percentage,persons,3.26
+E02001282,Altrincham East,Cardiovascular Disease prevalence,2018,percentage,persons,1.15
+E02001283,"Altrincham West, Dunham & Warburton",Cardiovascular Disease prevalence,2018,percentage,persons,1.15
+E02001284,Hale,Cardiovascular Disease prevalence,2018,percentage,persons,1.26
+E02001285,Bowdon,Cardiovascular Disease prevalence,2018,percentage,persons,1.2
+E02001286,Hale Barns,Cardiovascular Disease prevalence,2018,percentage,persons,1.24
