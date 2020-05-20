@@ -1,0 +1,449 @@
+area_code,area_name,indicator,period,measure,unit,value
+E02001259,Old Trafford,People on Universal Credit,2019-01,count,persons,842
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-01,count,persons,197
+E02001261,Gorse Hill,People on Universal Credit,2019-01,count,persons,467
+E02001262,Firswood,People on Universal Credit,2019-01,count,persons,390
+E02001263,Davyhulme,People on Universal Credit,2019-01,count,persons,126
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-01,count,persons,340
+E02001265,Flixton & Moorside,People on Universal Credit,2019-01,count,persons,232
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-01,count,persons,400
+E02001267,Urmston East,People on Universal Credit,2019-01,count,persons,250
+E02001268,Urmston West,People on Universal Credit,2019-01,count,persons,124
+E02001269,Stretford East,People on Universal Credit,2019-01,count,persons,442
+E02001270,Sale North,People on Universal Credit,2019-01,count,persons,202
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-01,count,persons,264
+E02001272,Sale East,People on Universal Credit,2019-01,count,persons,142
+E02001273,Sale Central,People on Universal Credit,2019-01,count,persons,233
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-01,count,persons,105
+E02001275,Partington,People on Universal Credit,2019-01,count,persons,648
+E02001276,Sale Moor,People on Universal Credit,2019-01,count,persons,346
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-01,count,persons,636
+E02001278,West Timperley,People on Universal Credit,2019-01,count,persons,132
+E02001279,Timperley North,People on Universal Credit,2019-01,count,persons,94
+E02001280,Timperley East,People on Universal Credit,2019-01,count,persons,383
+E02001281,Timperley South,People on Universal Credit,2019-01,count,persons,82
+E02001282,Altrincham East,People on Universal Credit,2019-01,count,persons,230
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-01,count,persons,169
+E02001284,Hale,People on Universal Credit,2019-01,count,persons,76
+E02001285,Bowdon,People on Universal Credit,2019-01,count,persons,116
+E02001286,Hale Barns,People on Universal Credit,2019-01,count,persons,107
+E02001259,Old Trafford,People on Universal Credit,2019-02,count,persons,807
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-02,count,persons,188
+E02001261,Gorse Hill,People on Universal Credit,2019-02,count,persons,446
+E02001262,Firswood,People on Universal Credit,2019-02,count,persons,375
+E02001263,Davyhulme,People on Universal Credit,2019-02,count,persons,119
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-02,count,persons,320
+E02001265,Flixton & Moorside,People on Universal Credit,2019-02,count,persons,220
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-02,count,persons,385
+E02001267,Urmston East,People on Universal Credit,2019-02,count,persons,216
+E02001268,Urmston West,People on Universal Credit,2019-02,count,persons,108
+E02001269,Stretford East,People on Universal Credit,2019-02,count,persons,395
+E02001270,Sale North,People on Universal Credit,2019-02,count,persons,200
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-02,count,persons,248
+E02001272,Sale East,People on Universal Credit,2019-02,count,persons,127
+E02001273,Sale Central,People on Universal Credit,2019-02,count,persons,215
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-02,count,persons,96
+E02001275,Partington,People on Universal Credit,2019-02,count,persons,639
+E02001276,Sale Moor,People on Universal Credit,2019-02,count,persons,338
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-02,count,persons,602
+E02001278,West Timperley,People on Universal Credit,2019-02,count,persons,125
+E02001279,Timperley North,People on Universal Credit,2019-02,count,persons,75
+E02001280,Timperley East,People on Universal Credit,2019-02,count,persons,379
+E02001281,Timperley South,People on Universal Credit,2019-02,count,persons,87
+E02001282,Altrincham East,People on Universal Credit,2019-02,count,persons,231
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-02,count,persons,164
+E02001284,Hale,People on Universal Credit,2019-02,count,persons,72
+E02001285,Bowdon,People on Universal Credit,2019-02,count,persons,122
+E02001286,Hale Barns,People on Universal Credit,2019-02,count,persons,103
+E02001259,Old Trafford,People on Universal Credit,2019-03,count,persons,825
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-03,count,persons,192
+E02001261,Gorse Hill,People on Universal Credit,2019-03,count,persons,467
+E02001262,Firswood,People on Universal Credit,2019-03,count,persons,365
+E02001263,Davyhulme,People on Universal Credit,2019-03,count,persons,111
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-03,count,persons,324
+E02001265,Flixton & Moorside,People on Universal Credit,2019-03,count,persons,231
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-03,count,persons,402
+E02001267,Urmston East,People on Universal Credit,2019-03,count,persons,214
+E02001268,Urmston West,People on Universal Credit,2019-03,count,persons,106
+E02001269,Stretford East,People on Universal Credit,2019-03,count,persons,408
+E02001270,Sale North,People on Universal Credit,2019-03,count,persons,200
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-03,count,persons,247
+E02001272,Sale East,People on Universal Credit,2019-03,count,persons,142
+E02001273,Sale Central,People on Universal Credit,2019-03,count,persons,210
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-03,count,persons,88
+E02001275,Partington,People on Universal Credit,2019-03,count,persons,636
+E02001276,Sale Moor,People on Universal Credit,2019-03,count,persons,342
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-03,count,persons,616
+E02001278,West Timperley,People on Universal Credit,2019-03,count,persons,127
+E02001279,Timperley North,People on Universal Credit,2019-03,count,persons,73
+E02001280,Timperley East,People on Universal Credit,2019-03,count,persons,383
+E02001281,Timperley South,People on Universal Credit,2019-03,count,persons,88
+E02001282,Altrincham East,People on Universal Credit,2019-03,count,persons,228
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-03,count,persons,166
+E02001284,Hale,People on Universal Credit,2019-03,count,persons,73
+E02001285,Bowdon,People on Universal Credit,2019-03,count,persons,125
+E02001286,Hale Barns,People on Universal Credit,2019-03,count,persons,104
+E02001259,Old Trafford,People on Universal Credit,2019-04,count,persons,847
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-04,count,persons,193
+E02001261,Gorse Hill,People on Universal Credit,2019-04,count,persons,480
+E02001262,Firswood,People on Universal Credit,2019-04,count,persons,377
+E02001263,Davyhulme,People on Universal Credit,2019-04,count,persons,115
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-04,count,persons,315
+E02001265,Flixton & Moorside,People on Universal Credit,2019-04,count,persons,236
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-04,count,persons,405
+E02001267,Urmston East,People on Universal Credit,2019-04,count,persons,217
+E02001268,Urmston West,People on Universal Credit,2019-04,count,persons,102
+E02001269,Stretford East,People on Universal Credit,2019-04,count,persons,425
+E02001270,Sale North,People on Universal Credit,2019-04,count,persons,191
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-04,count,persons,254
+E02001272,Sale East,People on Universal Credit,2019-04,count,persons,137
+E02001273,Sale Central,People on Universal Credit,2019-04,count,persons,212
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-04,count,persons,91
+E02001275,Partington,People on Universal Credit,2019-04,count,persons,656
+E02001276,Sale Moor,People on Universal Credit,2019-04,count,persons,345
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-04,count,persons,637
+E02001278,West Timperley,People on Universal Credit,2019-04,count,persons,134
+E02001279,Timperley North,People on Universal Credit,2019-04,count,persons,76
+E02001280,Timperley East,People on Universal Credit,2019-04,count,persons,380
+E02001281,Timperley South,People on Universal Credit,2019-04,count,persons,85
+E02001282,Altrincham East,People on Universal Credit,2019-04,count,persons,222
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-04,count,persons,162
+E02001284,Hale,People on Universal Credit,2019-04,count,persons,71
+E02001285,Bowdon,People on Universal Credit,2019-04,count,persons,137
+E02001286,Hale Barns,People on Universal Credit,2019-04,count,persons,103
+E02001259,Old Trafford,People on Universal Credit,2019-05,count,persons,860
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-05,count,persons,192
+E02001261,Gorse Hill,People on Universal Credit,2019-05,count,persons,477
+E02001262,Firswood,People on Universal Credit,2019-05,count,persons,396
+E02001263,Davyhulme,People on Universal Credit,2019-05,count,persons,110
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-05,count,persons,315
+E02001265,Flixton & Moorside,People on Universal Credit,2019-05,count,persons,249
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-05,count,persons,405
+E02001267,Urmston East,People on Universal Credit,2019-05,count,persons,219
+E02001268,Urmston West,People on Universal Credit,2019-05,count,persons,107
+E02001269,Stretford East,People on Universal Credit,2019-05,count,persons,424
+E02001270,Sale North,People on Universal Credit,2019-05,count,persons,188
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-05,count,persons,268
+E02001272,Sale East,People on Universal Credit,2019-05,count,persons,139
+E02001273,Sale Central,People on Universal Credit,2019-05,count,persons,218
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-05,count,persons,98
+E02001275,Partington,People on Universal Credit,2019-05,count,persons,662
+E02001276,Sale Moor,People on Universal Credit,2019-05,count,persons,353
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-05,count,persons,636
+E02001278,West Timperley,People on Universal Credit,2019-05,count,persons,131
+E02001279,Timperley North,People on Universal Credit,2019-05,count,persons,76
+E02001280,Timperley East,People on Universal Credit,2019-05,count,persons,399
+E02001281,Timperley South,People on Universal Credit,2019-05,count,persons,86
+E02001282,Altrincham East,People on Universal Credit,2019-05,count,persons,232
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-05,count,persons,174
+E02001284,Hale,People on Universal Credit,2019-05,count,persons,75
+E02001285,Bowdon,People on Universal Credit,2019-05,count,persons,135
+E02001286,Hale Barns,People on Universal Credit,2019-05,count,persons,107
+E02001259,Old Trafford,People on Universal Credit,2019-06,count,persons,899
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-06,count,persons,205
+E02001261,Gorse Hill,People on Universal Credit,2019-06,count,persons,492
+E02001262,Firswood,People on Universal Credit,2019-06,count,persons,406
+E02001263,Davyhulme,People on Universal Credit,2019-06,count,persons,122
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-06,count,persons,321
+E02001265,Flixton & Moorside,People on Universal Credit,2019-06,count,persons,266
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-06,count,persons,416
+E02001267,Urmston East,People on Universal Credit,2019-06,count,persons,221
+E02001268,Urmston West,People on Universal Credit,2019-06,count,persons,113
+E02001269,Stretford East,People on Universal Credit,2019-06,count,persons,435
+E02001270,Sale North,People on Universal Credit,2019-06,count,persons,197
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-06,count,persons,290
+E02001272,Sale East,People on Universal Credit,2019-06,count,persons,131
+E02001273,Sale Central,People on Universal Credit,2019-06,count,persons,217
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-06,count,persons,92
+E02001275,Partington,People on Universal Credit,2019-06,count,persons,701
+E02001276,Sale Moor,People on Universal Credit,2019-06,count,persons,367
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-06,count,persons,643
+E02001278,West Timperley,People on Universal Credit,2019-06,count,persons,142
+E02001279,Timperley North,People on Universal Credit,2019-06,count,persons,76
+E02001280,Timperley East,People on Universal Credit,2019-06,count,persons,395
+E02001281,Timperley South,People on Universal Credit,2019-06,count,persons,81
+E02001282,Altrincham East,People on Universal Credit,2019-06,count,persons,220
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-06,count,persons,165
+E02001284,Hale,People on Universal Credit,2019-06,count,persons,84
+E02001285,Bowdon,People on Universal Credit,2019-06,count,persons,130
+E02001286,Hale Barns,People on Universal Credit,2019-06,count,persons,102
+E02001259,Old Trafford,People on Universal Credit,2019-07,count,persons,907
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-07,count,persons,207
+E02001261,Gorse Hill,People on Universal Credit,2019-07,count,persons,514
+E02001262,Firswood,People on Universal Credit,2019-07,count,persons,407
+E02001263,Davyhulme,People on Universal Credit,2019-07,count,persons,124
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-07,count,persons,332
+E02001265,Flixton & Moorside,People on Universal Credit,2019-07,count,persons,257
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-07,count,persons,420
+E02001267,Urmston East,People on Universal Credit,2019-07,count,persons,223
+E02001268,Urmston West,People on Universal Credit,2019-07,count,persons,113
+E02001269,Stretford East,People on Universal Credit,2019-07,count,persons,440
+E02001270,Sale North,People on Universal Credit,2019-07,count,persons,201
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-07,count,persons,292
+E02001272,Sale East,People on Universal Credit,2019-07,count,persons,135
+E02001273,Sale Central,People on Universal Credit,2019-07,count,persons,223
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-07,count,persons,96
+E02001275,Partington,People on Universal Credit,2019-07,count,persons,717
+E02001276,Sale Moor,People on Universal Credit,2019-07,count,persons,381
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-07,count,persons,652
+E02001278,West Timperley,People on Universal Credit,2019-07,count,persons,139
+E02001279,Timperley North,People on Universal Credit,2019-07,count,persons,73
+E02001280,Timperley East,People on Universal Credit,2019-07,count,persons,412
+E02001281,Timperley South,People on Universal Credit,2019-07,count,persons,84
+E02001282,Altrincham East,People on Universal Credit,2019-07,count,persons,221
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-07,count,persons,169
+E02001284,Hale,People on Universal Credit,2019-07,count,persons,83
+E02001285,Bowdon,People on Universal Credit,2019-07,count,persons,141
+E02001286,Hale Barns,People on Universal Credit,2019-07,count,persons,100
+E02001259,Old Trafford,People on Universal Credit,2019-08,count,persons,924
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-08,count,persons,215
+E02001261,Gorse Hill,People on Universal Credit,2019-08,count,persons,521
+E02001262,Firswood,People on Universal Credit,2019-08,count,persons,431
+E02001263,Davyhulme,People on Universal Credit,2019-08,count,persons,117
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-08,count,persons,334
+E02001265,Flixton & Moorside,People on Universal Credit,2019-08,count,persons,261
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-08,count,persons,418
+E02001267,Urmston East,People on Universal Credit,2019-08,count,persons,227
+E02001268,Urmston West,People on Universal Credit,2019-08,count,persons,117
+E02001269,Stretford East,People on Universal Credit,2019-08,count,persons,438
+E02001270,Sale North,People on Universal Credit,2019-08,count,persons,206
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-08,count,persons,300
+E02001272,Sale East,People on Universal Credit,2019-08,count,persons,147
+E02001273,Sale Central,People on Universal Credit,2019-08,count,persons,225
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-08,count,persons,92
+E02001275,Partington,People on Universal Credit,2019-08,count,persons,735
+E02001276,Sale Moor,People on Universal Credit,2019-08,count,persons,384
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-08,count,persons,669
+E02001278,West Timperley,People on Universal Credit,2019-08,count,persons,138
+E02001279,Timperley North,People on Universal Credit,2019-08,count,persons,85
+E02001280,Timperley East,People on Universal Credit,2019-08,count,persons,417
+E02001281,Timperley South,People on Universal Credit,2019-08,count,persons,81
+E02001282,Altrincham East,People on Universal Credit,2019-08,count,persons,224
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-08,count,persons,179
+E02001284,Hale,People on Universal Credit,2019-08,count,persons,88
+E02001285,Bowdon,People on Universal Credit,2019-08,count,persons,147
+E02001286,Hale Barns,People on Universal Credit,2019-08,count,persons,108
+E02001259,Old Trafford,People on Universal Credit,2019-09,count,persons,954
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-09,count,persons,210
+E02001261,Gorse Hill,People on Universal Credit,2019-09,count,persons,534
+E02001262,Firswood,People on Universal Credit,2019-09,count,persons,450
+E02001263,Davyhulme,People on Universal Credit,2019-09,count,persons,120
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-09,count,persons,353
+E02001265,Flixton & Moorside,People on Universal Credit,2019-09,count,persons,272
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-09,count,persons,428
+E02001267,Urmston East,People on Universal Credit,2019-09,count,persons,229
+E02001268,Urmston West,People on Universal Credit,2019-09,count,persons,111
+E02001269,Stretford East,People on Universal Credit,2019-09,count,persons,446
+E02001270,Sale North,People on Universal Credit,2019-09,count,persons,212
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-09,count,persons,301
+E02001272,Sale East,People on Universal Credit,2019-09,count,persons,139
+E02001273,Sale Central,People on Universal Credit,2019-09,count,persons,231
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-09,count,persons,99
+E02001275,Partington,People on Universal Credit,2019-09,count,persons,761
+E02001276,Sale Moor,People on Universal Credit,2019-09,count,persons,397
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-09,count,persons,677
+E02001278,West Timperley,People on Universal Credit,2019-09,count,persons,142
+E02001279,Timperley North,People on Universal Credit,2019-09,count,persons,93
+E02001280,Timperley East,People on Universal Credit,2019-09,count,persons,418
+E02001281,Timperley South,People on Universal Credit,2019-09,count,persons,90
+E02001282,Altrincham East,People on Universal Credit,2019-09,count,persons,228
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-09,count,persons,184
+E02001284,Hale,People on Universal Credit,2019-09,count,persons,88
+E02001285,Bowdon,People on Universal Credit,2019-09,count,persons,142
+E02001286,Hale Barns,People on Universal Credit,2019-09,count,persons,113
+E02001259,Old Trafford,People on Universal Credit,2019-10,count,persons,979
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-10,count,persons,226
+E02001261,Gorse Hill,People on Universal Credit,2019-10,count,persons,549
+E02001262,Firswood,People on Universal Credit,2019-10,count,persons,459
+E02001263,Davyhulme,People on Universal Credit,2019-10,count,persons,130
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-10,count,persons,351
+E02001265,Flixton & Moorside,People on Universal Credit,2019-10,count,persons,285
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-10,count,persons,445
+E02001267,Urmston East,People on Universal Credit,2019-10,count,persons,229
+E02001268,Urmston West,People on Universal Credit,2019-10,count,persons,122
+E02001269,Stretford East,People on Universal Credit,2019-10,count,persons,453
+E02001270,Sale North,People on Universal Credit,2019-10,count,persons,212
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-10,count,persons,305
+E02001272,Sale East,People on Universal Credit,2019-10,count,persons,147
+E02001273,Sale Central,People on Universal Credit,2019-10,count,persons,235
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-10,count,persons,111
+E02001275,Partington,People on Universal Credit,2019-10,count,persons,773
+E02001276,Sale Moor,People on Universal Credit,2019-10,count,persons,408
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-10,count,persons,695
+E02001278,West Timperley,People on Universal Credit,2019-10,count,persons,136
+E02001279,Timperley North,People on Universal Credit,2019-10,count,persons,97
+E02001280,Timperley East,People on Universal Credit,2019-10,count,persons,430
+E02001281,Timperley South,People on Universal Credit,2019-10,count,persons,86
+E02001282,Altrincham East,People on Universal Credit,2019-10,count,persons,225
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-10,count,persons,181
+E02001284,Hale,People on Universal Credit,2019-10,count,persons,87
+E02001285,Bowdon,People on Universal Credit,2019-10,count,persons,141
+E02001286,Hale Barns,People on Universal Credit,2019-10,count,persons,113
+E02001259,Old Trafford,People on Universal Credit,2019-11,count,persons,1005
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-11,count,persons,233
+E02001261,Gorse Hill,People on Universal Credit,2019-11,count,persons,571
+E02001262,Firswood,People on Universal Credit,2019-11,count,persons,470
+E02001263,Davyhulme,People on Universal Credit,2019-11,count,persons,129
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-11,count,persons,351
+E02001265,Flixton & Moorside,People on Universal Credit,2019-11,count,persons,294
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-11,count,persons,445
+E02001267,Urmston East,People on Universal Credit,2019-11,count,persons,250
+E02001268,Urmston West,People on Universal Credit,2019-11,count,persons,113
+E02001269,Stretford East,People on Universal Credit,2019-11,count,persons,473
+E02001270,Sale North,People on Universal Credit,2019-11,count,persons,219
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-11,count,persons,319
+E02001272,Sale East,People on Universal Credit,2019-11,count,persons,150
+E02001273,Sale Central,People on Universal Credit,2019-11,count,persons,244
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-11,count,persons,108
+E02001275,Partington,People on Universal Credit,2019-11,count,persons,792
+E02001276,Sale Moor,People on Universal Credit,2019-11,count,persons,405
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-11,count,persons,715
+E02001278,West Timperley,People on Universal Credit,2019-11,count,persons,142
+E02001279,Timperley North,People on Universal Credit,2019-11,count,persons,100
+E02001280,Timperley East,People on Universal Credit,2019-11,count,persons,442
+E02001281,Timperley South,People on Universal Credit,2019-11,count,persons,88
+E02001282,Altrincham East,People on Universal Credit,2019-11,count,persons,225
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-11,count,persons,190
+E02001284,Hale,People on Universal Credit,2019-11,count,persons,77
+E02001285,Bowdon,People on Universal Credit,2019-11,count,persons,148
+E02001286,Hale Barns,People on Universal Credit,2019-11,count,persons,115
+E02001259,Old Trafford,People on Universal Credit,2019-12,count,persons,1004
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2019-12,count,persons,230
+E02001261,Gorse Hill,People on Universal Credit,2019-12,count,persons,585
+E02001262,Firswood,People on Universal Credit,2019-12,count,persons,460
+E02001263,Davyhulme,People on Universal Credit,2019-12,count,persons,123
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2019-12,count,persons,366
+E02001265,Flixton & Moorside,People on Universal Credit,2019-12,count,persons,292
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2019-12,count,persons,446
+E02001267,Urmston East,People on Universal Credit,2019-12,count,persons,247
+E02001268,Urmston West,People on Universal Credit,2019-12,count,persons,110
+E02001269,Stretford East,People on Universal Credit,2019-12,count,persons,471
+E02001270,Sale North,People on Universal Credit,2019-12,count,persons,218
+E02001271,Ashton upon Mersey North,People on Universal Credit,2019-12,count,persons,318
+E02001272,Sale East,People on Universal Credit,2019-12,count,persons,152
+E02001273,Sale Central,People on Universal Credit,2019-12,count,persons,244
+E02001274,Ashton upon Mersey South,People on Universal Credit,2019-12,count,persons,103
+E02001275,Partington,People on Universal Credit,2019-12,count,persons,817
+E02001276,Sale Moor,People on Universal Credit,2019-12,count,persons,404
+E02001277,Broadheath & Firsway,People on Universal Credit,2019-12,count,persons,731
+E02001278,West Timperley,People on Universal Credit,2019-12,count,persons,147
+E02001279,Timperley North,People on Universal Credit,2019-12,count,persons,97
+E02001280,Timperley East,People on Universal Credit,2019-12,count,persons,447
+E02001281,Timperley South,People on Universal Credit,2019-12,count,persons,89
+E02001282,Altrincham East,People on Universal Credit,2019-12,count,persons,221
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2019-12,count,persons,191
+E02001284,Hale,People on Universal Credit,2019-12,count,persons,79
+E02001285,Bowdon,People on Universal Credit,2019-12,count,persons,149
+E02001286,Hale Barns,People on Universal Credit,2019-12,count,persons,114
+E02001259,Old Trafford,People on Universal Credit,2020-01,count,persons,1019
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2020-01,count,persons,227
+E02001261,Gorse Hill,People on Universal Credit,2020-01,count,persons,576
+E02001262,Firswood,People on Universal Credit,2020-01,count,persons,466
+E02001263,Davyhulme,People on Universal Credit,2020-01,count,persons,128
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2020-01,count,persons,376
+E02001265,Flixton & Moorside,People on Universal Credit,2020-01,count,persons,290
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2020-01,count,persons,452
+E02001267,Urmston East,People on Universal Credit,2020-01,count,persons,246
+E02001268,Urmston West,People on Universal Credit,2020-01,count,persons,122
+E02001269,Stretford East,People on Universal Credit,2020-01,count,persons,474
+E02001270,Sale North,People on Universal Credit,2020-01,count,persons,233
+E02001271,Ashton upon Mersey North,People on Universal Credit,2020-01,count,persons,322
+E02001272,Sale East,People on Universal Credit,2020-01,count,persons,142
+E02001273,Sale Central,People on Universal Credit,2020-01,count,persons,250
+E02001274,Ashton upon Mersey South,People on Universal Credit,2020-01,count,persons,104
+E02001275,Partington,People on Universal Credit,2020-01,count,persons,811
+E02001276,Sale Moor,People on Universal Credit,2020-01,count,persons,409
+E02001277,Broadheath & Firsway,People on Universal Credit,2020-01,count,persons,719
+E02001278,West Timperley,People on Universal Credit,2020-01,count,persons,151
+E02001279,Timperley North,People on Universal Credit,2020-01,count,persons,102
+E02001280,Timperley East,People on Universal Credit,2020-01,count,persons,448
+E02001281,Timperley South,People on Universal Credit,2020-01,count,persons,87
+E02001282,Altrincham East,People on Universal Credit,2020-01,count,persons,220
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2020-01,count,persons,188
+E02001284,Hale,People on Universal Credit,2020-01,count,persons,81
+E02001285,Bowdon,People on Universal Credit,2020-01,count,persons,155
+E02001286,Hale Barns,People on Universal Credit,2020-01,count,persons,118
+E02001259,Old Trafford,People on Universal Credit,2020-02,count,persons,1058
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2020-02,count,persons,233
+E02001261,Gorse Hill,People on Universal Credit,2020-02,count,persons,608
+E02001262,Firswood,People on Universal Credit,2020-02,count,persons,473
+E02001263,Davyhulme,People on Universal Credit,2020-02,count,persons,127
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2020-02,count,persons,386
+E02001265,Flixton & Moorside,People on Universal Credit,2020-02,count,persons,316
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2020-02,count,persons,469
+E02001267,Urmston East,People on Universal Credit,2020-02,count,persons,254
+E02001268,Urmston West,People on Universal Credit,2020-02,count,persons,137
+E02001269,Stretford East,People on Universal Credit,2020-02,count,persons,500
+E02001270,Sale North,People on Universal Credit,2020-02,count,persons,238
+E02001271,Ashton upon Mersey North,People on Universal Credit,2020-02,count,persons,345
+E02001272,Sale East,People on Universal Credit,2020-02,count,persons,151
+E02001273,Sale Central,People on Universal Credit,2020-02,count,persons,248
+E02001274,Ashton upon Mersey South,People on Universal Credit,2020-02,count,persons,112
+E02001275,Partington,People on Universal Credit,2020-02,count,persons,850
+E02001276,Sale Moor,People on Universal Credit,2020-02,count,persons,420
+E02001277,Broadheath & Firsway,People on Universal Credit,2020-02,count,persons,721
+E02001278,West Timperley,People on Universal Credit,2020-02,count,persons,162
+E02001279,Timperley North,People on Universal Credit,2020-02,count,persons,105
+E02001280,Timperley East,People on Universal Credit,2020-02,count,persons,471
+E02001281,Timperley South,People on Universal Credit,2020-02,count,persons,95
+E02001282,Altrincham East,People on Universal Credit,2020-02,count,persons,229
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2020-02,count,persons,192
+E02001284,Hale,People on Universal Credit,2020-02,count,persons,86
+E02001285,Bowdon,People on Universal Credit,2020-02,count,persons,152
+E02001286,Hale Barns,People on Universal Credit,2020-02,count,persons,125
+E02001259,Old Trafford,People on Universal Credit,2020-03,count,persons,1094
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2020-03,count,persons,250
+E02001261,Gorse Hill,People on Universal Credit,2020-03,count,persons,631
+E02001262,Firswood,People on Universal Credit,2020-03,count,persons,470
+E02001263,Davyhulme,People on Universal Credit,2020-03,count,persons,126
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2020-03,count,persons,403
+E02001265,Flixton & Moorside,People on Universal Credit,2020-03,count,persons,315
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2020-03,count,persons,479
+E02001267,Urmston East,People on Universal Credit,2020-03,count,persons,249
+E02001268,Urmston West,People on Universal Credit,2020-03,count,persons,143
+E02001269,Stretford East,People on Universal Credit,2020-03,count,persons,502
+E02001270,Sale North,People on Universal Credit,2020-03,count,persons,255
+E02001271,Ashton upon Mersey North,People on Universal Credit,2020-03,count,persons,355
+E02001272,Sale East,People on Universal Credit,2020-03,count,persons,152
+E02001273,Sale Central,People on Universal Credit,2020-03,count,persons,254
+E02001274,Ashton upon Mersey South,People on Universal Credit,2020-03,count,persons,118
+E02001275,Partington,People on Universal Credit,2020-03,count,persons,888
+E02001276,Sale Moor,People on Universal Credit,2020-03,count,persons,418
+E02001277,Broadheath & Firsway,People on Universal Credit,2020-03,count,persons,723
+E02001278,West Timperley,People on Universal Credit,2020-03,count,persons,158
+E02001279,Timperley North,People on Universal Credit,2020-03,count,persons,111
+E02001280,Timperley East,People on Universal Credit,2020-03,count,persons,473
+E02001281,Timperley South,People on Universal Credit,2020-03,count,persons,92
+E02001282,Altrincham East,People on Universal Credit,2020-03,count,persons,230
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2020-03,count,persons,191
+E02001284,Hale,People on Universal Credit,2020-03,count,persons,93
+E02001285,Bowdon,People on Universal Credit,2020-03,count,persons,157
+E02001286,Hale Barns,People on Universal Credit,2020-03,count,persons,121
+E02001259,Old Trafford,People on Universal Credit,2020-04,count,persons,1421
+E02001260,Trafford Park West & Kingsway Park,People on Universal Credit,2020-04,count,persons,380
+E02001261,Gorse Hill,People on Universal Credit,2020-04,count,persons,806
+E02001262,Firswood,People on Universal Credit,2020-04,count,persons,676
+E02001263,Davyhulme,People on Universal Credit,2020-04,count,persons,249
+E02001264,Trafford Park East & Sevenways,People on Universal Credit,2020-04,count,persons,592
+E02001265,Flixton & Moorside,People on Universal Credit,2020-04,count,persons,472
+E02001266,Lostock & Stretford Meadows,People on Universal Credit,2020-04,count,persons,657
+E02001267,Urmston East,People on Universal Credit,2020-04,count,persons,372
+E02001268,Urmston West,People on Universal Credit,2020-04,count,persons,241
+E02001269,Stretford East,People on Universal Credit,2020-04,count,persons,692
+E02001270,Sale North,People on Universal Credit,2020-04,count,persons,376
+E02001271,Ashton upon Mersey North,People on Universal Credit,2020-04,count,persons,499
+E02001272,Sale East,People on Universal Credit,2020-04,count,persons,259
+E02001273,Sale Central,People on Universal Credit,2020-04,count,persons,393
+E02001274,Ashton upon Mersey South,People on Universal Credit,2020-04,count,persons,208
+E02001275,Partington,People on Universal Credit,2020-04,count,persons,1071
+E02001276,Sale Moor,People on Universal Credit,2020-04,count,persons,579
+E02001277,Broadheath & Firsway,People on Universal Credit,2020-04,count,persons,923
+E02001278,West Timperley,People on Universal Credit,2020-04,count,persons,249
+E02001279,Timperley North,People on Universal Credit,2020-04,count,persons,195
+E02001280,Timperley East,People on Universal Credit,2020-04,count,persons,637
+E02001281,Timperley South,People on Universal Credit,2020-04,count,persons,160
+E02001282,Altrincham East,People on Universal Credit,2020-04,count,persons,400
+E02001283,"Altrincham West, Dunham & Warburton",People on Universal Credit,2020-04,count,persons,317
+E02001284,Hale,People on Universal Credit,2020-04,count,persons,152
+E02001285,Bowdon,People on Universal Credit,2020-04,count,persons,242
+E02001286,Hale Barns,People on Universal Credit,2020-04,count,persons,192
