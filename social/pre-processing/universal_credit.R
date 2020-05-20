@@ -2,7 +2,7 @@
 # Source: Department for Work and Pensions ; Stat-Xplore
 # URL: https://stat-xplore.dwp.gov.uk/webapi/metadata/UC_Monthly/UC_Monthly.html
 
-library(tidyverse) ; library(httr) ; library(jsonlite) ; library(lubridate)
+library(tidyverse) ; library(httr) ; library(jsonlite) ; library(zoo)
 
 # API key
 api_key <- read_lines("stat-xplore_key.txt")
@@ -47,10 +47,8 @@ dimnames(values) <- dimnames
 df <- as.data.frame.table(values, stringsAsFactors = FALSE) %>%
   as_tibble() %>% 
   set_names(c(response$fields$label,"value")) %>% 
-  mutate(Month = parse_date_time(Month, "my")) %>% 
+  mutate(Month = as.Date(as.yearmon(Month))) %>% 
   pivot_wider(names_from = `Jobcentre Plus`, values_from = value)
 
 # write results as CSV
 write_csv(df, "../univeral_credit.csv")
-
-
