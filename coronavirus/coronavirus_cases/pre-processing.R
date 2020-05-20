@@ -20,4 +20,4 @@ df <- read_csv("https://coronavirus.data.gov.uk/downloads/csv/coronavirus-cases_
          CumCases = `Cumulative lab-confirmed cases`) %>% 
   filter(AreaType == "Upper tier local authority")
 
-write_csv(filter(df, AreaName == "Trafford"), "coronavirus_cases.csv")
+write_csv(filter(df, AreaName == "Trafford"), "../coronavirus_cases.csv")
