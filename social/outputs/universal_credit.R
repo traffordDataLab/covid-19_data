@@ -14,8 +14,8 @@ ggplot(df, aes(x = Month, y = n, colour = JobcentrePlus)) +
        subtitle = paste0("Trafford, ", format(min(df$Month), "%B %Y"), " to ", format(max(df$Month), "%B %Y")),
        caption = "Source: Department for Work and Pensions",
        colour = NULL) +
-    theme_minimal() +
-    theme(plot.margin = unit(rep(0.5, 4), "cm"),
+    theme_minimal(base_size = 12) +
+    theme(plot.margin = unit(rep(0.8, 4), "cm"),
           panel.grid.major.x = element_blank(),
           panel.grid.minor = element_blank(),
           plot.title.position = "plot",
