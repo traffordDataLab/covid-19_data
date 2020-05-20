@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Stat-Xplore api key
+social/pre-processing/stat-xplore_key.txt

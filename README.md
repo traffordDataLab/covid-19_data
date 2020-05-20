@@ -45,6 +45,7 @@ Open datasets that help to identify Trafford residents most vulnerable to the he
 | Disability Living Allowance | DWP | MSOA | [link](https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml) |
 | Employment and Support Allowance (disease code respiratory or circulatory) | DWP | MSOA | [link](https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml) |
 | Personal Independence Payment | DWP | MSOA | [link](https://stat-xplore.dwp.gov.uk/webapi/jsf/login.xhtml) |
+| People on Universal Credit | DWP | Jobcentre Plus | [link](https://stat-xplore.dwp.gov.uk/webapi/metadata/UC_Monthly/UC_Monthly.html)  |
 
 
 ## Economy
