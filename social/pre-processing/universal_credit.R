@@ -51,4 +51,4 @@ df <- as.data.frame.table(values, stringsAsFactors = FALSE) %>%
   pivot_wider(names_from = `Jobcentre Plus`, values_from = value)
 
 # write results as CSV
-write_csv(df, "../univeral_credit.csv")
+write_csv(df, "../universal_credit.csv")
