@@ -12,7 +12,8 @@ patients <- read_csv("https://files.digital.nhs.uk/96/69FFAA/Coronavirus%20%28CO
                           "Salford", "Stockport", "Tameside", "Trafford", "Wigan"),
          `Breakdown Field` %in% c("ALL", "Age")) %>% 
   select(area_code = `LA Code`, area_name = `LA Name`, period = `Extract Date`, group = `Breakdown Value`, value = `Patient Count`) %>% 
-  mutate(group = case_when(group == "ALL" ~ "All ages", TRUE ~ group),
+  mutate(period = as.Date(period, format = "%d/%m/%Y"),
+         group = case_when(group == "ALL" ~ "All ages", TRUE ~ group),
          indicator = "Residents on the Shielded Patient List", 
          measure = "Count", unit = "Persons") %>% 
   select(area_code, area_name, indicator, period, measure, unit, group, value)
@@ -20,7 +21,6 @@ patients <- read_csv("https://files.digital.nhs.uk/96/69FFAA/Coronavirus%20%28CO
 # Mid-2018 population estimates
 # Source: Nomis / ONS
 # URL: https://www.nomisweb.co.uk/datasets/pestsyoala
-
 population <- read_csv("http://www.nomisweb.co.uk/api/v01/dataset/NM_2002_1.data.csv?geography=1820327961...1820327970&date=latest&gender=0&c_age=101...191&measures=20100&select=date_name,geography_name,geography_code,gender_name,c_age_name,measures_name,obs_value,obs_status_name") %>% 
   select(area_code = GEOGRAPHY_CODE, area_name = GEOGRAPHY_NAME, age = C_AGE_NAME, count = OBS_VALUE) %>%
   mutate(age = as.integer(str_trim(str_replace_all(age, "Age.|\\+", "")))) %>% 
