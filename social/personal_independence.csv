@@ -1,0 +1,365 @@
+area_code,area_name,indicator,period,measure,unit,value
+E02001259,Old Trafford,Personal Independence Payment,2019-01,count,persons,516
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-01,count,persons,231
+E02001261,Gorse Hill,Personal Independence Payment,2019-01,count,persons,313
+E02001262,Firswood,Personal Independence Payment,2019-01,count,persons,351
+E02001263,Davyhulme,Personal Independence Payment,2019-01,count,persons,183
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-01,count,persons,238
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-01,count,persons,316
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-01,count,persons,321
+E02001267,Urmston East,Personal Independence Payment,2019-01,count,persons,268
+E02001268,Urmston West,Personal Independence Payment,2019-01,count,persons,178
+E02001269,Stretford East,Personal Independence Payment,2019-01,count,persons,303
+E02001270,Sale North,Personal Independence Payment,2019-01,count,persons,182
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-01,count,persons,254
+E02001272,Sale East,Personal Independence Payment,2019-01,count,persons,136
+E02001273,Sale Central,Personal Independence Payment,2019-01,count,persons,152
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-01,count,persons,149
+E02001275,Partington,Personal Independence Payment,2019-01,count,persons,519
+E02001276,Sale Moor,Personal Independence Payment,2019-01,count,persons,337
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-01,count,persons,432
+E02001278,West Timperley,Personal Independence Payment,2019-01,count,persons,155
+E02001279,Timperley North,Personal Independence Payment,2019-01,count,persons,120
+E02001280,Timperley East,Personal Independence Payment,2019-01,count,persons,358
+E02001281,Timperley South,Personal Independence Payment,2019-01,count,persons,119
+E02001282,Altrincham East,Personal Independence Payment,2019-01,count,persons,182
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-01,count,persons,156
+E02001284,Hale,Personal Independence Payment,2019-01,count,persons,75
+E02001285,Bowdon,Personal Independence Payment,2019-01,count,persons,95
+E02001286,Hale Barns,Personal Independence Payment,2019-01,count,persons,105
+E02001259,Old Trafford,Personal Independence Payment,2019-02,count,persons,527
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-02,count,persons,237
+E02001261,Gorse Hill,Personal Independence Payment,2019-02,count,persons,309
+E02001262,Firswood,Personal Independence Payment,2019-02,count,persons,358
+E02001263,Davyhulme,Personal Independence Payment,2019-02,count,persons,185
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-02,count,persons,245
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-02,count,persons,318
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-02,count,persons,321
+E02001267,Urmston East,Personal Independence Payment,2019-02,count,persons,271
+E02001268,Urmston West,Personal Independence Payment,2019-02,count,persons,188
+E02001269,Stretford East,Personal Independence Payment,2019-02,count,persons,312
+E02001270,Sale North,Personal Independence Payment,2019-02,count,persons,187
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-02,count,persons,257
+E02001272,Sale East,Personal Independence Payment,2019-02,count,persons,137
+E02001273,Sale Central,Personal Independence Payment,2019-02,count,persons,153
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-02,count,persons,145
+E02001275,Partington,Personal Independence Payment,2019-02,count,persons,527
+E02001276,Sale Moor,Personal Independence Payment,2019-02,count,persons,339
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-02,count,persons,427
+E02001278,West Timperley,Personal Independence Payment,2019-02,count,persons,149
+E02001279,Timperley North,Personal Independence Payment,2019-02,count,persons,121
+E02001280,Timperley East,Personal Independence Payment,2019-02,count,persons,364
+E02001281,Timperley South,Personal Independence Payment,2019-02,count,persons,116
+E02001282,Altrincham East,Personal Independence Payment,2019-02,count,persons,181
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-02,count,persons,153
+E02001284,Hale,Personal Independence Payment,2019-02,count,persons,71
+E02001285,Bowdon,Personal Independence Payment,2019-02,count,persons,95
+E02001286,Hale Barns,Personal Independence Payment,2019-02,count,persons,107
+E02001259,Old Trafford,Personal Independence Payment,2019-03,count,persons,533
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-03,count,persons,234
+E02001261,Gorse Hill,Personal Independence Payment,2019-03,count,persons,312
+E02001262,Firswood,Personal Independence Payment,2019-03,count,persons,363
+E02001263,Davyhulme,Personal Independence Payment,2019-03,count,persons,183
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-03,count,persons,246
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-03,count,persons,315
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-03,count,persons,323
+E02001267,Urmston East,Personal Independence Payment,2019-03,count,persons,271
+E02001268,Urmston West,Personal Independence Payment,2019-03,count,persons,188
+E02001269,Stretford East,Personal Independence Payment,2019-03,count,persons,307
+E02001270,Sale North,Personal Independence Payment,2019-03,count,persons,186
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-03,count,persons,255
+E02001272,Sale East,Personal Independence Payment,2019-03,count,persons,136
+E02001273,Sale Central,Personal Independence Payment,2019-03,count,persons,155
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-03,count,persons,148
+E02001275,Partington,Personal Independence Payment,2019-03,count,persons,534
+E02001276,Sale Moor,Personal Independence Payment,2019-03,count,persons,341
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-03,count,persons,433
+E02001278,West Timperley,Personal Independence Payment,2019-03,count,persons,153
+E02001279,Timperley North,Personal Independence Payment,2019-03,count,persons,124
+E02001280,Timperley East,Personal Independence Payment,2019-03,count,persons,369
+E02001281,Timperley South,Personal Independence Payment,2019-03,count,persons,116
+E02001282,Altrincham East,Personal Independence Payment,2019-03,count,persons,179
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-03,count,persons,157
+E02001284,Hale,Personal Independence Payment,2019-03,count,persons,70
+E02001285,Bowdon,Personal Independence Payment,2019-03,count,persons,100
+E02001286,Hale Barns,Personal Independence Payment,2019-03,count,persons,107
+E02001259,Old Trafford,Personal Independence Payment,2019-04,count,persons,529
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-04,count,persons,233
+E02001261,Gorse Hill,Personal Independence Payment,2019-04,count,persons,316
+E02001262,Firswood,Personal Independence Payment,2019-04,count,persons,365
+E02001263,Davyhulme,Personal Independence Payment,2019-04,count,persons,187
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-04,count,persons,242
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-04,count,persons,319
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-04,count,persons,322
+E02001267,Urmston East,Personal Independence Payment,2019-04,count,persons,273
+E02001268,Urmston West,Personal Independence Payment,2019-04,count,persons,184
+E02001269,Stretford East,Personal Independence Payment,2019-04,count,persons,307
+E02001270,Sale North,Personal Independence Payment,2019-04,count,persons,188
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-04,count,persons,260
+E02001272,Sale East,Personal Independence Payment,2019-04,count,persons,135
+E02001273,Sale Central,Personal Independence Payment,2019-04,count,persons,159
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-04,count,persons,149
+E02001275,Partington,Personal Independence Payment,2019-04,count,persons,547
+E02001276,Sale Moor,Personal Independence Payment,2019-04,count,persons,341
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-04,count,persons,438
+E02001278,West Timperley,Personal Independence Payment,2019-04,count,persons,155
+E02001279,Timperley North,Personal Independence Payment,2019-04,count,persons,129
+E02001280,Timperley East,Personal Independence Payment,2019-04,count,persons,371
+E02001281,Timperley South,Personal Independence Payment,2019-04,count,persons,108
+E02001282,Altrincham East,Personal Independence Payment,2019-04,count,persons,174
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-04,count,persons,157
+E02001284,Hale,Personal Independence Payment,2019-04,count,persons,69
+E02001285,Bowdon,Personal Independence Payment,2019-04,count,persons,106
+E02001286,Hale Barns,Personal Independence Payment,2019-04,count,persons,108
+E02001259,Old Trafford,Personal Independence Payment,2019-05,count,persons,543
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-05,count,persons,235
+E02001261,Gorse Hill,Personal Independence Payment,2019-05,count,persons,311
+E02001262,Firswood,Personal Independence Payment,2019-05,count,persons,371
+E02001263,Davyhulme,Personal Independence Payment,2019-05,count,persons,181
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-05,count,persons,244
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-05,count,persons,317
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-05,count,persons,331
+E02001267,Urmston East,Personal Independence Payment,2019-05,count,persons,272
+E02001268,Urmston West,Personal Independence Payment,2019-05,count,persons,185
+E02001269,Stretford East,Personal Independence Payment,2019-05,count,persons,310
+E02001270,Sale North,Personal Independence Payment,2019-05,count,persons,189
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-05,count,persons,261
+E02001272,Sale East,Personal Independence Payment,2019-05,count,persons,136
+E02001273,Sale Central,Personal Independence Payment,2019-05,count,persons,161
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-05,count,persons,145
+E02001275,Partington,Personal Independence Payment,2019-05,count,persons,550
+E02001276,Sale Moor,Personal Independence Payment,2019-05,count,persons,338
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-05,count,persons,444
+E02001278,West Timperley,Personal Independence Payment,2019-05,count,persons,160
+E02001279,Timperley North,Personal Independence Payment,2019-05,count,persons,128
+E02001280,Timperley East,Personal Independence Payment,2019-05,count,persons,371
+E02001281,Timperley South,Personal Independence Payment,2019-05,count,persons,113
+E02001282,Altrincham East,Personal Independence Payment,2019-05,count,persons,179
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-05,count,persons,163
+E02001284,Hale,Personal Independence Payment,2019-05,count,persons,69
+E02001285,Bowdon,Personal Independence Payment,2019-05,count,persons,110
+E02001286,Hale Barns,Personal Independence Payment,2019-05,count,persons,108
+E02001259,Old Trafford,Personal Independence Payment,2019-06,count,persons,554
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-06,count,persons,239
+E02001261,Gorse Hill,Personal Independence Payment,2019-06,count,persons,313
+E02001262,Firswood,Personal Independence Payment,2019-06,count,persons,371
+E02001263,Davyhulme,Personal Independence Payment,2019-06,count,persons,185
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-06,count,persons,250
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-06,count,persons,325
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-06,count,persons,332
+E02001267,Urmston East,Personal Independence Payment,2019-06,count,persons,271
+E02001268,Urmston West,Personal Independence Payment,2019-06,count,persons,191
+E02001269,Stretford East,Personal Independence Payment,2019-06,count,persons,312
+E02001270,Sale North,Personal Independence Payment,2019-06,count,persons,189
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-06,count,persons,260
+E02001272,Sale East,Personal Independence Payment,2019-06,count,persons,138
+E02001273,Sale Central,Personal Independence Payment,2019-06,count,persons,160
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-06,count,persons,150
+E02001275,Partington,Personal Independence Payment,2019-06,count,persons,553
+E02001276,Sale Moor,Personal Independence Payment,2019-06,count,persons,335
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-06,count,persons,447
+E02001278,West Timperley,Personal Independence Payment,2019-06,count,persons,165
+E02001279,Timperley North,Personal Independence Payment,2019-06,count,persons,125
+E02001280,Timperley East,Personal Independence Payment,2019-06,count,persons,378
+E02001281,Timperley South,Personal Independence Payment,2019-06,count,persons,117
+E02001282,Altrincham East,Personal Independence Payment,2019-06,count,persons,179
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-06,count,persons,167
+E02001284,Hale,Personal Independence Payment,2019-06,count,persons,69
+E02001285,Bowdon,Personal Independence Payment,2019-06,count,persons,111
+E02001286,Hale Barns,Personal Independence Payment,2019-06,count,persons,114
+E02001259,Old Trafford,Personal Independence Payment,2019-07,count,persons,556
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-07,count,persons,242
+E02001261,Gorse Hill,Personal Independence Payment,2019-07,count,persons,328
+E02001262,Firswood,Personal Independence Payment,2019-07,count,persons,380
+E02001263,Davyhulme,Personal Independence Payment,2019-07,count,persons,186
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-07,count,persons,245
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-07,count,persons,326
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-07,count,persons,335
+E02001267,Urmston East,Personal Independence Payment,2019-07,count,persons,282
+E02001268,Urmston West,Personal Independence Payment,2019-07,count,persons,193
+E02001269,Stretford East,Personal Independence Payment,2019-07,count,persons,325
+E02001270,Sale North,Personal Independence Payment,2019-07,count,persons,189
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-07,count,persons,265
+E02001272,Sale East,Personal Independence Payment,2019-07,count,persons,142
+E02001273,Sale Central,Personal Independence Payment,2019-07,count,persons,163
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-07,count,persons,155
+E02001275,Partington,Personal Independence Payment,2019-07,count,persons,553
+E02001276,Sale Moor,Personal Independence Payment,2019-07,count,persons,345
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-07,count,persons,457
+E02001278,West Timperley,Personal Independence Payment,2019-07,count,persons,175
+E02001279,Timperley North,Personal Independence Payment,2019-07,count,persons,131
+E02001280,Timperley East,Personal Independence Payment,2019-07,count,persons,377
+E02001281,Timperley South,Personal Independence Payment,2019-07,count,persons,119
+E02001282,Altrincham East,Personal Independence Payment,2019-07,count,persons,192
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-07,count,persons,168
+E02001284,Hale,Personal Independence Payment,2019-07,count,persons,68
+E02001285,Bowdon,Personal Independence Payment,2019-07,count,persons,115
+E02001286,Hale Barns,Personal Independence Payment,2019-07,count,persons,114
+E02001259,Old Trafford,Personal Independence Payment,2019-08,count,persons,558
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-08,count,persons,249
+E02001261,Gorse Hill,Personal Independence Payment,2019-08,count,persons,341
+E02001262,Firswood,Personal Independence Payment,2019-08,count,persons,383
+E02001263,Davyhulme,Personal Independence Payment,2019-08,count,persons,189
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-08,count,persons,256
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-08,count,persons,328
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-08,count,persons,335
+E02001267,Urmston East,Personal Independence Payment,2019-08,count,persons,292
+E02001268,Urmston West,Personal Independence Payment,2019-08,count,persons,207
+E02001269,Stretford East,Personal Independence Payment,2019-08,count,persons,335
+E02001270,Sale North,Personal Independence Payment,2019-08,count,persons,193
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-08,count,persons,272
+E02001272,Sale East,Personal Independence Payment,2019-08,count,persons,144
+E02001273,Sale Central,Personal Independence Payment,2019-08,count,persons,163
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-08,count,persons,158
+E02001275,Partington,Personal Independence Payment,2019-08,count,persons,560
+E02001276,Sale Moor,Personal Independence Payment,2019-08,count,persons,344
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-08,count,persons,460
+E02001278,West Timperley,Personal Independence Payment,2019-08,count,persons,177
+E02001279,Timperley North,Personal Independence Payment,2019-08,count,persons,135
+E02001280,Timperley East,Personal Independence Payment,2019-08,count,persons,377
+E02001281,Timperley South,Personal Independence Payment,2019-08,count,persons,125
+E02001282,Altrincham East,Personal Independence Payment,2019-08,count,persons,192
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-08,count,persons,170
+E02001284,Hale,Personal Independence Payment,2019-08,count,persons,69
+E02001285,Bowdon,Personal Independence Payment,2019-08,count,persons,121
+E02001286,Hale Barns,Personal Independence Payment,2019-08,count,persons,115
+E02001259,Old Trafford,Personal Independence Payment,2019-09,count,persons,568
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-09,count,persons,254
+E02001261,Gorse Hill,Personal Independence Payment,2019-09,count,persons,340
+E02001262,Firswood,Personal Independence Payment,2019-09,count,persons,389
+E02001263,Davyhulme,Personal Independence Payment,2019-09,count,persons,193
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-09,count,persons,259
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-09,count,persons,334
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-09,count,persons,342
+E02001267,Urmston East,Personal Independence Payment,2019-09,count,persons,299
+E02001268,Urmston West,Personal Independence Payment,2019-09,count,persons,212
+E02001269,Stretford East,Personal Independence Payment,2019-09,count,persons,336
+E02001270,Sale North,Personal Independence Payment,2019-09,count,persons,190
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-09,count,persons,277
+E02001272,Sale East,Personal Independence Payment,2019-09,count,persons,147
+E02001273,Sale Central,Personal Independence Payment,2019-09,count,persons,170
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-09,count,persons,159
+E02001275,Partington,Personal Independence Payment,2019-09,count,persons,572
+E02001276,Sale Moor,Personal Independence Payment,2019-09,count,persons,351
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-09,count,persons,464
+E02001278,West Timperley,Personal Independence Payment,2019-09,count,persons,174
+E02001279,Timperley North,Personal Independence Payment,2019-09,count,persons,135
+E02001280,Timperley East,Personal Independence Payment,2019-09,count,persons,382
+E02001281,Timperley South,Personal Independence Payment,2019-09,count,persons,131
+E02001282,Altrincham East,Personal Independence Payment,2019-09,count,persons,204
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-09,count,persons,170
+E02001284,Hale,Personal Independence Payment,2019-09,count,persons,72
+E02001285,Bowdon,Personal Independence Payment,2019-09,count,persons,122
+E02001286,Hale Barns,Personal Independence Payment,2019-09,count,persons,118
+E02001259,Old Trafford,Personal Independence Payment,2019-10,count,persons,570
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-10,count,persons,260
+E02001261,Gorse Hill,Personal Independence Payment,2019-10,count,persons,343
+E02001262,Firswood,Personal Independence Payment,2019-10,count,persons,395
+E02001263,Davyhulme,Personal Independence Payment,2019-10,count,persons,199
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-10,count,persons,254
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-10,count,persons,344
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-10,count,persons,349
+E02001267,Urmston East,Personal Independence Payment,2019-10,count,persons,305
+E02001268,Urmston West,Personal Independence Payment,2019-10,count,persons,213
+E02001269,Stretford East,Personal Independence Payment,2019-10,count,persons,345
+E02001270,Sale North,Personal Independence Payment,2019-10,count,persons,197
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-10,count,persons,282
+E02001272,Sale East,Personal Independence Payment,2019-10,count,persons,152
+E02001273,Sale Central,Personal Independence Payment,2019-10,count,persons,171
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-10,count,persons,162
+E02001275,Partington,Personal Independence Payment,2019-10,count,persons,571
+E02001276,Sale Moor,Personal Independence Payment,2019-10,count,persons,352
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-10,count,persons,472
+E02001278,West Timperley,Personal Independence Payment,2019-10,count,persons,180
+E02001279,Timperley North,Personal Independence Payment,2019-10,count,persons,137
+E02001280,Timperley East,Personal Independence Payment,2019-10,count,persons,387
+E02001281,Timperley South,Personal Independence Payment,2019-10,count,persons,126
+E02001282,Altrincham East,Personal Independence Payment,2019-10,count,persons,202
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-10,count,persons,178
+E02001284,Hale,Personal Independence Payment,2019-10,count,persons,79
+E02001285,Bowdon,Personal Independence Payment,2019-10,count,persons,120
+E02001286,Hale Barns,Personal Independence Payment,2019-10,count,persons,120
+E02001259,Old Trafford,Personal Independence Payment,2019-11,count,persons,582
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-11,count,persons,269
+E02001261,Gorse Hill,Personal Independence Payment,2019-11,count,persons,342
+E02001262,Firswood,Personal Independence Payment,2019-11,count,persons,397
+E02001263,Davyhulme,Personal Independence Payment,2019-11,count,persons,195
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-11,count,persons,264
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-11,count,persons,351
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-11,count,persons,356
+E02001267,Urmston East,Personal Independence Payment,2019-11,count,persons,310
+E02001268,Urmston West,Personal Independence Payment,2019-11,count,persons,222
+E02001269,Stretford East,Personal Independence Payment,2019-11,count,persons,347
+E02001270,Sale North,Personal Independence Payment,2019-11,count,persons,202
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-11,count,persons,285
+E02001272,Sale East,Personal Independence Payment,2019-11,count,persons,150
+E02001273,Sale Central,Personal Independence Payment,2019-11,count,persons,167
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-11,count,persons,163
+E02001275,Partington,Personal Independence Payment,2019-11,count,persons,579
+E02001276,Sale Moor,Personal Independence Payment,2019-11,count,persons,358
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-11,count,persons,489
+E02001278,West Timperley,Personal Independence Payment,2019-11,count,persons,173
+E02001279,Timperley North,Personal Independence Payment,2019-11,count,persons,137
+E02001280,Timperley East,Personal Independence Payment,2019-11,count,persons,391
+E02001281,Timperley South,Personal Independence Payment,2019-11,count,persons,128
+E02001282,Altrincham East,Personal Independence Payment,2019-11,count,persons,207
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-11,count,persons,176
+E02001284,Hale,Personal Independence Payment,2019-11,count,persons,80
+E02001285,Bowdon,Personal Independence Payment,2019-11,count,persons,125
+E02001286,Hale Barns,Personal Independence Payment,2019-11,count,persons,119
+E02001259,Old Trafford,Personal Independence Payment,2019-12,count,persons,585
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2019-12,count,persons,274
+E02001261,Gorse Hill,Personal Independence Payment,2019-12,count,persons,345
+E02001262,Firswood,Personal Independence Payment,2019-12,count,persons,406
+E02001263,Davyhulme,Personal Independence Payment,2019-12,count,persons,202
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2019-12,count,persons,270
+E02001265,Flixton & Moorside,Personal Independence Payment,2019-12,count,persons,355
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2019-12,count,persons,354
+E02001267,Urmston East,Personal Independence Payment,2019-12,count,persons,314
+E02001268,Urmston West,Personal Independence Payment,2019-12,count,persons,224
+E02001269,Stretford East,Personal Independence Payment,2019-12,count,persons,345
+E02001270,Sale North,Personal Independence Payment,2019-12,count,persons,203
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2019-12,count,persons,286
+E02001272,Sale East,Personal Independence Payment,2019-12,count,persons,156
+E02001273,Sale Central,Personal Independence Payment,2019-12,count,persons,178
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2019-12,count,persons,169
+E02001275,Partington,Personal Independence Payment,2019-12,count,persons,586
+E02001276,Sale Moor,Personal Independence Payment,2019-12,count,persons,360
+E02001277,Broadheath & Firsway,Personal Independence Payment,2019-12,count,persons,492
+E02001278,West Timperley,Personal Independence Payment,2019-12,count,persons,175
+E02001279,Timperley North,Personal Independence Payment,2019-12,count,persons,135
+E02001280,Timperley East,Personal Independence Payment,2019-12,count,persons,397
+E02001281,Timperley South,Personal Independence Payment,2019-12,count,persons,131
+E02001282,Altrincham East,Personal Independence Payment,2019-12,count,persons,211
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2019-12,count,persons,181
+E02001284,Hale,Personal Independence Payment,2019-12,count,persons,81
+E02001285,Bowdon,Personal Independence Payment,2019-12,count,persons,126
+E02001286,Hale Barns,Personal Independence Payment,2019-12,count,persons,127
+E02001259,Old Trafford,Personal Independence Payment,2020-01,count,persons,593
+E02001260,Trafford Park West & Kingsway Park,Personal Independence Payment,2020-01,count,persons,278
+E02001261,Gorse Hill,Personal Independence Payment,2020-01,count,persons,346
+E02001262,Firswood,Personal Independence Payment,2020-01,count,persons,408
+E02001263,Davyhulme,Personal Independence Payment,2020-01,count,persons,201
+E02001264,Trafford Park East & Sevenways,Personal Independence Payment,2020-01,count,persons,272
+E02001265,Flixton & Moorside,Personal Independence Payment,2020-01,count,persons,353
+E02001266,Lostock & Stretford Meadows,Personal Independence Payment,2020-01,count,persons,356
+E02001267,Urmston East,Personal Independence Payment,2020-01,count,persons,313
+E02001268,Urmston West,Personal Independence Payment,2020-01,count,persons,221
+E02001269,Stretford East,Personal Independence Payment,2020-01,count,persons,350
+E02001270,Sale North,Personal Independence Payment,2020-01,count,persons,206
+E02001271,Ashton upon Mersey North,Personal Independence Payment,2020-01,count,persons,289
+E02001272,Sale East,Personal Independence Payment,2020-01,count,persons,152
+E02001273,Sale Central,Personal Independence Payment,2020-01,count,persons,170
+E02001274,Ashton upon Mersey South,Personal Independence Payment,2020-01,count,persons,170
+E02001275,Partington,Personal Independence Payment,2020-01,count,persons,583
+E02001276,Sale Moor,Personal Independence Payment,2020-01,count,persons,362
+E02001277,Broadheath & Firsway,Personal Independence Payment,2020-01,count,persons,494
+E02001278,West Timperley,Personal Independence Payment,2020-01,count,persons,177
+E02001279,Timperley North,Personal Independence Payment,2020-01,count,persons,138
+E02001280,Timperley East,Personal Independence Payment,2020-01,count,persons,402
+E02001281,Timperley South,Personal Independence Payment,2020-01,count,persons,133
+E02001282,Altrincham East,Personal Independence Payment,2020-01,count,persons,206
+E02001283,"Altrincham West, Dunham & Warburton",Personal Independence Payment,2020-01,count,persons,182
+E02001284,Hale,Personal Independence Payment,2020-01,count,persons,78
+E02001285,Bowdon,Personal Independence Payment,2020-01,count,persons,125
+E02001286,Hale Barns,Personal Independence Payment,2020-01,count,persons,126
