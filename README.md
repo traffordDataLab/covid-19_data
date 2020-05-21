@@ -11,6 +11,7 @@ Open datasets that help to identify Trafford residents most vulnerable to the he
 | Provisional count of registered deaths involving the coronavirus | ONS | Local authority | [link](http://ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/causesofdeath/datasets/deathregistrationsandoccurrencesbylocalauthorityandhealthboard) | 
 | Potential COVID-19 symptoms reported through NHS Pathways and 111 online | NHS Digital | CCG | [link](https://digital.nhs.uk/data-and-information/publications/statistical/mi-potential-covid-19-symptoms-reported-through-nhs-pathways-and-111-online/latest) |
 | Estimated symptomatic COVID-19 infections | ZOE COVID Symptom Tracker app | Local authority | [link](https://covid.joinzoe.com/data) | 
+| Shielded Patient List | NHS Digital | Local authority | [link](https://digital.nhs.uk/dashboards/shielded-patient-list-open-data-set) | 
 
 ## Health
 
