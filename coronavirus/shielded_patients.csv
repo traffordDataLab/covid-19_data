@@ -1,0 +1,41 @@
+area_code,area_name,indicator,period,measure,unit,group,value
+E08000001,Bolton,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,15800
+E08000002,Bury,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,9830
+E08000003,Manchester,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,21005
+E08000004,Oldham,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,9670
+E08000005,Rochdale,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,7910
+E08000006,Salford,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,12005
+E08000007,Stockport,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,11265
+E08000008,Tameside,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,9620
+E08000009,Trafford,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,9355
+E08000010,Wigan,Residents on the Shielded Patient List,15/05/2020,Count,Persons,All ages,14005
+E08000001,Bolton,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,675
+E08000002,Bury,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,395
+E08000003,Manchester,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,2400
+E08000004,Oldham,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,615
+E08000005,Rochdale,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,450
+E08000006,Salford,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,515
+E08000007,Stockport,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,565
+E08000008,Tameside,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,440
+E08000009,Trafford,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,800
+E08000010,Wigan,Residents on the Shielded Patient List,15/05/2020,Count,Persons,0-18,440
+E08000001,Bolton,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,8085
+E08000002,Bury,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,4765
+E08000003,Manchester,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,12375
+E08000004,Oldham,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,5325
+E08000005,Rochdale,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,4630
+E08000006,Salford,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,6115
+E08000007,Stockport,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,5805
+E08000008,Tameside,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,5365
+E08000009,Trafford,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,4710
+E08000010,Wigan,Residents on the Shielded Patient List,15/05/2020,Count,Persons,19-69,7420
+E08000001,Bolton,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,7045
+E08000002,Bury,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,4670
+E08000003,Manchester,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,6225
+E08000004,Oldham,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,3730
+E08000005,Rochdale,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,2830
+E08000006,Salford,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,5375
+E08000007,Stockport,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,4900
+E08000008,Tameside,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,3815
+E08000009,Trafford,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,3845
+E08000010,Wigan,Residents on the Shielded Patient List,15/05/2020,Count,Persons,70+,6145
