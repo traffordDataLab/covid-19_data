@@ -1,4 +1,4 @@
-#Universal Credit
+# Universal Credit by MSOA
 
 # Source: DWP
 # URL: https://stat-xplore.dwp.gov.uk/webapi/metadata/UC_Monthly/UC_Monthly.html
@@ -11,10 +11,10 @@ library(tidyverse) ; library(httr) ; library(jsonlite) ; library(zoo)
 # URL: https://visual.parliament.uk/msoanames
 
 lookup <- read_csv("https://visual.parliament.uk/msoanames/static/MSOA-Names-v1.1.0.csv") %>%
-  filter(Laname=="Trafford")
+  filter(Laname == "Trafford")
 
-# add your API key
-api_key <- ""
+# API key
+api_key <- read_lines("stat-xplore_key.txt")
 
 # API endpoint
 path <- "https://stat-xplore.dwp.gov.uk/webapi/rest/v1/table"
@@ -27,7 +27,7 @@ query <- list(database = unbox("str:database:UC_Monthly"),
                 `str:field:UC_Monthly:V_F_UC_CASELOAD_FULL:COA_CODE` = list(
                   map = as.list(paste0("str:value:UC_Monthly:V_F_UC_CASELOAD_FULL:COA_CODE:V_C_MASTERGEOG11_MSOA_TO_LA:E0", seq(2001259, 2001286, 1)))),
                 `str:field:UC_Monthly:F_UC_DATE:DATE_NAME` = list(
-                  map = as.list(paste0("str:value:UC_Monthly:F_UC_DATE:DATE_NAME:C_UC_DATE:",c(201901,201902,201903,201904,201905,201906,201907,201908,201909,201910,201911,201912,202001,202002,202003,202004))))
+                  map = as.list(paste0("str:value:UC_Monthly:F_UC_DATE:DATE_NAME:C_UC_DATE:",c(201901,201902,201903,201904,201905,201906,201907,201908,201909,201910,201911,201912,202001,202002,202003,202004,202005))))
               )) %>% toJSON()
 
 request <- POST(
