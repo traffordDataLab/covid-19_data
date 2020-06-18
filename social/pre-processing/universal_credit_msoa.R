@@ -52,4 +52,4 @@ df <- as.data.frame.table(values, stringsAsFactors = FALSE) %>%
          period=format(as.yearmon(`Month`, "%B %Y"),"%Y-%m")) %>%
   select(area_code=msoa11cd, area_name = msoa11hclnm, indicator, period, measure, unit, value)
 
-write_csv(df, "universal_credit_msoa.csv")
+write_csv(df, "../universal_credit_msoa.csv")
