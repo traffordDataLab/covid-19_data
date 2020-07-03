@@ -1,6 +1,6 @@
 # COVID-19 data
 
-Open datasets that help to identify Trafford residents most vulnerable to the health, economic and social effects of COVID-19.
+Open datasets that help to identify residents most vulnerable to the health, economic and social effects of COVID-19.
 
 ## Coronavirus
 
